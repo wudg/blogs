@@ -24,7 +24,7 @@
     </header>
     <div class="post-content">
         <!--featured_image-->
-
+1111
         {{ $images := findRE "<img src=\"[^\"|\\\"]*\"" .Content -}}
         {{ if ge (len $images) 1}}
             {{ $.Scratch.Set "postHasImages" true }}

@@ -9,12 +9,8 @@ enableToc: true
 enableTocContent: false
 author: Kim
 authorEmoji: 👻
-categories:
-        - learn
-        - math 
-tags: 
-        - learn 
-        - simple
+tags: ["hugo"]
+categroies: ["hugo"]
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways. 

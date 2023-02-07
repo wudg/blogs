@@ -26,10 +26,10 @@ hasCJKLanguage = true    # 正确显示文章字数统计，建议为 true
     url = "/posts/"
     weight = 1
 
-  [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
-    weight = 2
+ # [[menu.main]]
+ #   name = "Categories"
+ #   url = "/categories/"
+ #   weight = 2
 
   [[menu.main]]
     name = "Tags"
@@ -62,3 +62,8 @@ hasCJKLanguage = true    # 正确显示文章字数统计，建议为 true
 [params.social]
     GitHub = "wudg"
     Wechat = "images/qrcode.jpeg"               # Wechat QRcode image
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"
