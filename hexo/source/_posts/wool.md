@@ -226,7 +226,7 @@ FinClip
 掘金*2
 ![](../images/wool/cup_2.jpg)
 CSDN*4
-![](../images/wool/cup_3.jpg)
+![](../images/wool/cup_3.png)
 
 ### 咖啡杯(5)
 .net*5
@@ -241,7 +241,7 @@ CSDN*3
 移动云*2
 ![](../images/wool/backpack_1.jpg)
 顶象
-![](../images/wool/backpack_3.jpg)
+![](../images/wool/backpack_3.png)
 
 ### 单肩包(8)
 趋动云*2
