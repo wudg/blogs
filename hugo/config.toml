@@ -43,7 +43,7 @@ hasCJKLanguage = true    # 正确显示文章字数统计，建议为 true
 
 [params]
     since = 2023
-    author = "吴第广"                   # Author's name
+    author = "王也"                   # Author's name
     avatar = "images/avatar.png" # Author's avatar
     subtitle = "Fuck The Life"    # Subtitle
     cdn_url = ""                  # Base CDN URL
