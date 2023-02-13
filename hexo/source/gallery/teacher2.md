@@ -18,4 +18,7 @@
 ![](/images/teacher2/9.教育学的深化发展阶段.png)
 ![](/images/teacher2/10.现代教育发展.png)
 ![](/images/teacher2/11.教育与生产力的关系.png)
+![](/images/teacher2/12.教育与政治经济制度的关系.png)
+![](/images/teacher2/13.教育与文化的关系.png)
+![](/images/teacher2/14.教育与人口的关系.png)
 {% endgallery %}
