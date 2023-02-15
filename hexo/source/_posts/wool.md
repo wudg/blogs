@@ -8,8 +8,8 @@ categories:
   - 生活
 keyword: "羊毛,活动"
 description: "白嫖羊毛活动记录"
-cover: /images/big_img.jpg
-top_img: /images/big_img.jpg
+cover: /images/wool/cover-wool.jpeg
+top_img: /images/wool/cover-wool.jpeg
 ---
 
 `【未知】【未开始】【进行中】【已完成】【已填地址】【已发货】【已收货】【失败】`

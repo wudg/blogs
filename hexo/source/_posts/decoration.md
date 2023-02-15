@@ -7,8 +7,8 @@ categories:
   - 装修
 keyword: "装修,新房"
 description: "新房装修"
-cover: /images/big_img.jpg
-top_img: /images/big_img.jpg
+cover: /images/private/cover-new-house.jpg
+top_img: /images/private/cover-new-house.jpg
 ---
 
 ## 装修类

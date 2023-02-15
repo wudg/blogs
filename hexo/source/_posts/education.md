@@ -8,8 +8,8 @@ categories:
   - 教育
 keyword: "教育"
 description: "教育相关的记录"
-cover: /images/big_img.jpg
-top_img: /images/big_img.jpg
+cover: /images/teacher2/cover-teacher.png
+top_img: /images/teacher2/cover-teacher.png
 ---
 
 ## 科目二
