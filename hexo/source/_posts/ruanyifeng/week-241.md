@@ -14,6 +14,10 @@ top_img: /images/ruanyifeng/cover-weekly-issue-241.png
 
 [原文地址](https://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)
 
+[封面图]
+
+![封面图](../../images/ruanyifeng/cover-weekly-issue-241.png)
+
 ## 中国的增长动力在内陆
 
 春节期间，长沙、昆明和大理，城市的人气十分旺盛，每一个摊位都在排长队。

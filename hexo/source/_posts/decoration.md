@@ -11,6 +11,10 @@ cover: /images/private/cover-new-house.jpg
 top_img: /images/private/cover-new-house.jpg
 ---
 
+[封面图]
+
+![封面图](../images/private/cover-new-house.jpg)
+
 ## 装修类
 
 ### 通用

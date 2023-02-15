@@ -12,6 +12,10 @@ cover: /images/teacher2/cover-teacher.png
 top_img: /images/teacher2/cover-teacher.png
 ---
 
+[封面图]
+
+![封面图](../images/teacher2/cover-teacher.png)
+
 ## 科目二
 - [B站学习地址](https://www.bilibili.com/video/BV1sk4y1q7pM)
 - [科目二知识点汇总](/gallery/teacher2)
