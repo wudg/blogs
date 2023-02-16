@@ -33,4 +33,10 @@
 ![](/images/teacher2/24.义务教育.png)
 ![](/images/teacher2/25.终生教育.png)
 ![](/images/teacher2/26.教育目的的概念.png)
+![](/images/teacher2/27.教育目的的层次结构.png)
+![](/images/teacher2/28.教育目的作用.png)
+![](/images/teacher2/29.教育目的的理论.png)
+![](/images/teacher2/30.教育目的的理论.png)
+![](/images/teacher2/31.我国的教育目的的理论.png)
+![](/images/teacher2/32.教育研究的基本方法.png)
 {% endgallery %}
