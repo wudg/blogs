@@ -39,4 +39,11 @@
 ![](/images/teacher2/30.教育目的的理论.png)
 ![](/images/teacher2/31.我国的教育目的的理论.png)
 ![](/images/teacher2/32.教育研究的基本方法.png)
+![](/images/teacher2/33.课程的概念.png)
+![](/images/teacher2/34.课程的分类(内容属性和组织形式).png)
+![](/images/teacher2/34.课程的分类(实施要求).png)
+![](/images/teacher2/34.课程的分类(设计开发主体).png)
+![](/images/teacher2/34.课程的分类(课程呈现方式).png)
+![](/images/teacher2/34.课程的分类(课程任务).png) 
+![](/images/teacher2/35.课程理论流派.png) 
 {% endgallery %}
