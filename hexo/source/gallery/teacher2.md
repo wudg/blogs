@@ -32,4 +32,5 @@
 ![](/images/teacher2/23.现代教育制度的发展趋势.png)
 ![](/images/teacher2/24.义务教育.png)
 ![](/images/teacher2/25.终生教育.png)
+![](/images/teacher2/26.教育目的的概念.png)
 {% endgallery %}
