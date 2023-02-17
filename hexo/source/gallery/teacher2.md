@@ -45,5 +45,10 @@
 ![](/images/teacher2/34.课程的分类(设计开发主体).png)
 ![](/images/teacher2/34.课程的分类(课程呈现方式).png)
 ![](/images/teacher2/34.课程的分类(课程任务).png) 
-![](/images/teacher2/35.课程理论流派.png) 
+![](/images/teacher2/35.课程理论流派.png)
+![](/images/teacher2/36.课程设计1.png)
+![](/images/teacher2/37.课程目标.png)
+![](/images/teacher2/38.课程内容-组织形式.png)
+![](/images/teacher2/38.课程内容-文本表现形式.png)
+![](/images/teacher2/39.课程评价.png)
 {% endgallery %}
