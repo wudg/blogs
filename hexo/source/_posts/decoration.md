@@ -1,17 +1,20 @@
 ---
-title: 新房
+title: 新房装修、设计
 date: 2023-02-12 17:23:00
 tags: 
-  - 新房装修
+  - 新房
+  - 装修
+  - 新家
 categories: 
   - 装修
+  - 新房
 keyword: "装修,新房"
 description: "新房装修"
 cover: /images/private/cover-new-house.jpg
 top_img: /images/private/cover-new-house.jpg
 ---
 
-[封面图]
+[封面图](https://3d.shejijia.com/)
 
 ![封面图](../images/private/cover-new-house.jpg)
 

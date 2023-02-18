@@ -1,12 +1,14 @@
 ---
-title: 教育相关记录
+title: 教育相关记录(教资考试)
 date: 2023-02-12 17:23:00
 tags: 
   - 教资
   - 教育
+  - 考试
 categories: 
   - 教育
-keyword: "教育"
+  - 考试
+keyword: "教育,考试"
 description: "教育相关的记录"
 cover: /images/teacher2/cover-teacher.png
 top_img: /images/teacher2/cover-teacher.png
