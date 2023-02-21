@@ -12,6 +12,6 @@ type: "link"
 羊毛文档分享
 <!-- endtimeline -->
 <!-- timeline 2月20日 -->
-羊毛文档分享
+图片统一使用nginx配置的静态图片链接，替换本地相对路径图片
 <!-- endtimeline -->
 {% endtimeline %}
