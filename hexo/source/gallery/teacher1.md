@@ -47,5 +47,10 @@
 ![](/images/teacher1/20.未成年人保护法-政府保护-校园安全监督.png)
 ![](/images/teacher1/20.未成年人保护法-政府保护-校舍活动场所保护.png)
 ![](/images/teacher1/20.未成年人保护法-政府保护-卫生保健和营养指导.png)
-![](/images/teacher1/20.未成年人保护法-政府保护-民政部门临时监护.png)
+![](/images/teacher1/20.未成年人保护法-政府保护-民政部门临时和长期监护.png)
+![](/images/teacher1/20.未成年人保护法-政府保护-救助保护.png)
+![](/images/teacher1/20.未成年人保护法-政府保护-国家.png)
+![](/images/teacher1/20.未成年人保护法-司法保护-刑法.png)
+![](/images/teacher1/20.未成年人保护法-司法保护-刑法1.png)
+![](/images/teacher1/20.未成年人保护法-法律责任.png)
 {% endgallery %}
