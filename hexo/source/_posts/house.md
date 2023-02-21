@@ -1,0 +1,101 @@
+---
+title: 南昌南崇湖畔和光
+date: 2023-02-21 15:23:00
+tags: 
+  - 小区
+  - 南崇
+categories: 
+  - 小区
+  - 楼盘
+  - 南崇
+keyword: "小区相关"
+description: "小区相关"
+cover: https://wudiguang.top/images/hexo/house/1400x933.jpg
+top_img: https://wudiguang.top/images/hexo/house/1400x933.jpg
+---
+
+## 楼盘详情
+
+[封面图]
+
+![封面图](https://wudiguang.top/images/hexo/house/1400x933.jpg)
+
+### 基础信息
+
+【开发商】江西鑫崇房地产开发有限公司
+
+【主力户型】3居(建面99㎡) 4居(建面117㎡) 4居(建面127㎡)
+
+【项目地址】[青山湖高新大道(四号线火炬站地铁口)](https://www.amap.com/search?query=%E5%8D%97%E6%98%8C%E5%8D%97%E5%B4%87%E6%B9%96%E7%95%94%E5%92%8C%E5%85%89&city=360100&geoobj=115.201398%7C28.514038%7C116.97762%7C28.871106&zoom=10.15)
+
+【近期开盘】2022年10月1号首开
+
+【交房时间】预计2024年12月31号交付
+
+【参考价格】楼盘概况单价：12000元/平方米
+
+【装修状况】毛坯
+
+【产权年限】普通住宅:70年
+
+【建筑类别】板楼
+
+【物业类别】普通住宅
+
+【物业费】3元/㎡·月
+
+【住房结构】1个单元2梯4户
+
+【房天下用户点评】3.89分/5分
+
+### 销售信息
+
+【销售状态】在售
+【咨询电话】400-176-0760 转 634649
+
+### 小区规划
+
+【占地面积】27760.82 ㎡
+【建筑面积】93109.79 ㎡
+【容积率】2.50
+【总户数】624户
+【绿化率】30%
+【楼栋总数】6栋
+【楼层状况】6栋，分别24-27F，面积段99-127㎡
+【航拍】[浏览](https://nc.newhouse.fang.com/loupan/2310202758/photo/)
+【户型图】如图
+
+![99平](https://wudiguang.top/images/hexo/house/house-99.jpg)
+![117平](https://wudiguang.top/images/hexo/house/house-117.jpg)
+![127平](https://wudiguang.top/images/hexo/house/house-127.jpg)
+<!-- <div id='layout' style='text-align: center'>
+    <div style='display: inline-block;'>
+        <img src ='https://wudiguang.top/images/hexo/house/house-99.jpg'>
+    </div>
+    <div style='display: inline-block;'>
+        <img src ='https://wudiguang.top/images/hexo/house/house-117.jpg'>
+    </div>
+    <div style="display: inline-block;">
+        <img src ='https://wudiguang.top/images/hexo/house/house-127.jpg'>
+    </div>
+</div> -->
+
+## 优势
+
+1. 小区门口就是地铁站
+2. 距离南昌三中临江校区仅几百米
+3. 毛坯出售，售价12000元/平以内
+
+## 其他
+
+### 相关资料(复制到浏览器打开)
+
+* `南昌三中临江校区何时开学？官方回复：预计2024年9月` https://mp.weixin.qq.com/s?__biz=MjM5OTI4MTE0MA==&mid=2659465660&idx=2&sn=240b4bb1b2150e79c5dc0b353398465c
+* `新品入市|南崇青山湖地铁口住宅规划出炉 6栋24-27层高层` https://mp.weixin.qq.com/s?__biz=MjM5OTI4MTE0MA==&mid=2659464212&idx=1&sn=65d6e44c7fb3f2e9ad9508317034d8e2
+* [南昌三中新校区！进展迅速！年底前力争5成封顶！](https://nc.loupan.com/html/news/202211/5002677.html)
+* [南崇湖畔和光好不好？老城芯、地铁口、三中旁](https://nc.loupan.com/html/news/202302/5043631.html)
+
+
+### 青山湖相关资料
+* `新品入市|新旅青山湖项目规划出炉 12栋5-18层住宅 共538户` https://mp.weixin.qq.com/s?__biz=MjM5OTI4MTE0MA==&mid=2659462645&idx=2&sn=71e6a8e8f640d7b2a140411dc3eff6b3
+* [江铃澜庭一号好不好？抢就完事了！！！](https://nc.loupan.com/html/news/202302/5044484.html)

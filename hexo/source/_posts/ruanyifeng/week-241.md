@@ -8,15 +8,15 @@ categories:
   - 学习
 keyword: "学习"
 description: "阮一峰周刊阅读笔记"
-cover: /images/ruanyifeng/cover-weekly-issue-241.png
-top_img: /images/ruanyifeng/cover-weekly-issue-241.png
+cover: https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png
+top_img: https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png
 ---
 
 [原文地址](https://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)
 
 [封面图]
 
-![封面图](../../images/ruanyifeng/cover-weekly-issue-241.png)
+![封面图](../https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png)
 
 ## 中国的增长动力在内陆
 
