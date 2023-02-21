@@ -62,7 +62,10 @@ top_img: /images/house/1400x933.jpg
 【航拍】[浏览](https://nc.newhouse.fang.com/loupan/2310202758/photo/)
 【户型图】如图
 
-<div id='layout' style='text-align: center'>
+![99平](../images/house/house-99.jpg)
+![117平](../images/house/house-117.jpg)
+![127平](../images/house/house-127.jpg)
+<!-- <div id='layout' style='text-align: center'>
     <div style='display: inline-block;'>
         <img src ='../images/house/house-99.jpg'>
     </div>
@@ -72,7 +75,7 @@ top_img: /images/house/1400x933.jpg
     <div style="display: inline-block;">
         <img src ='../images/house/house-127.jpg'>
     </div>
-</div>
+</div> -->
 
 ## 优势
 
