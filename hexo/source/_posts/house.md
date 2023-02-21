@@ -7,15 +7,15 @@ categories:
   - 小区
 keyword: "小区相关"
 description: "小区相关"
-cover: /images/house/1400x933.jpg
-top_img: /images/house/1400x933.jpg
+cover: https://wudiguang.top/images/hexo/house/1400x933.jpg
+top_img: https://wudiguang.top/images/hexo/house/1400x933.jpg
 ---
 
 ## 楼盘详情
 
 [封面图]
 
-![封面图](../images/house/1400x933.jpg)
+![封面图](https://wudiguang.top/images/hexo/house/1400x933.jpg)
 
 ### 基础信息
 
@@ -62,18 +62,18 @@ top_img: /images/house/1400x933.jpg
 【航拍】[浏览](https://nc.newhouse.fang.com/loupan/2310202758/photo/)
 【户型图】如图
 
-![99平](../images/house/house-99.jpg)
-![117平](../images/house/house-117.jpg)
-![127平](../images/house/house-127.jpg)
+![99平](https://wudiguang.top/images/hexo/house/house-99.jpg)
+![117平](https://wudiguang.top/images/hexo/house/house-117.jpg)
+![127平](https://wudiguang.top/images/hexo/house/house-127.jpg)
 <!-- <div id='layout' style='text-align: center'>
     <div style='display: inline-block;'>
-        <img src ='../images/house/house-99.jpg'>
+        <img src ='https://wudiguang.top/images/hexo/house/house-99.jpg'>
     </div>
     <div style='display: inline-block;'>
-        <img src ='../images/house/house-117.jpg'>
+        <img src ='https://wudiguang.top/images/hexo/house/house-117.jpg'>
     </div>
     <div style="display: inline-block;">
-        <img src ='../images/house/house-127.jpg'>
+        <img src ='https://wudiguang.top/images/hexo/house/house-127.jpg'>
     </div>
 </div> -->
 

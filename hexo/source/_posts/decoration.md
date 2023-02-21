@@ -10,13 +10,13 @@ categories:
   - 新房
 keyword: "装修,新房"
 description: "新房装修"
-cover: /images/private/cover-new-house.jpg
-top_img: /images/private/cover-new-house.jpg
+cover: https://wudiguang.top/images/hexo/private/cover-new-house.jpg
+top_img: https://wudiguang.top/images/hexo/private/cover-new-house.jpg
 ---
 
 [封面图](https://3d.shejijia.com/)
 
-![封面图](../images/private/cover-new-house.jpg)
+![封面图](https://wudiguang.top/images/hexo/private/cover-new-house.jpg)
 
 ## 装修类
 
@@ -167,11 +167,11 @@ top_img: /images/private/cover-new-house.jpg
 
 ## 毛坯房装修流程
 
-![step1.png](../images/house/step1.png)
-![step2.png](../images/house/step2.png)
-![step_detail_01.png](../images/house/step_detail_01.png)
-![step_detail_02.png](../images/house/step_detail_02.png)
-![step_detail_03.png](../images/house/step_detail_03.png)
-![step_detail_04.png](../images/house/step_detail_04.png)
-![step_detail_05.png](../images/house/step_detail_05.png)
-![step_detail_06.png](../images/house/step_detail_06.png)
+![step1.png](https://wudiguang.top/images/hexo/house/step1.png)
+![step2.png](https://wudiguang.top/images/hexo/house/step2.png)
+![step_detail_01.png](https://wudiguang.top/images/hexo/house/step_detail_01.png)
+![step_detail_02.png](https://wudiguang.top/images/hexo/house/step_detail_02.png)
+![step_detail_03.png](https://wudiguang.top/images/hexo/house/step_detail_03.png)
+![step_detail_04.png](https://wudiguang.top/images/hexo/house/step_detail_04.png)
+![step_detail_05.png](https://wudiguang.top/images/hexo/house/step_detail_05.png)
+![step_detail_06.png](https://wudiguang.top/images/hexo/house/step_detail_06.png)
