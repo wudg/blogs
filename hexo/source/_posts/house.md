@@ -57,15 +57,16 @@ top_img: /images/house/1400x933.jpg
 【楼层状况】6栋，分别24-27F，面积段99-127㎡
 【航拍】[浏览](https://nc.newhouse.fang.com/loupan/2310202758/photo/)
 【户型图】如图
+
 <div id='layout' style="text-align: center">
     <div style="display: inline-block;">
-        <img src ="../images/house/house-99.jpg">
+        <img src ="./../images/house/house-99.jpg">
     </div>
     <div style="display: inline-block;">
-        <img src ="../images/house/house-117.jpg">
+        <img src ="./../images/house/house-117.jpg">
     </div>
     <div style="display: inline-block;">
-        <img src ="../images/house/house-127.jpg">
+        <img src ="./../images/house/house-127.jpg">
     </div>
 </div>
 
