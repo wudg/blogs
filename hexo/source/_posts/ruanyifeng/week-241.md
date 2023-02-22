@@ -16,7 +16,7 @@ top_img: https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png
 
 [封面图]
 
-![封面图](../https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png)
+![封面图](/https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png)
 
 ## 中国的增长动力在内陆
 
