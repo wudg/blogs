@@ -48,6 +48,7 @@ social:
     fab fa-github: https://github.com/wudg || Github
     fa-brands fa-weixin: https://wudiguang.top/images/hexo/wechat_wudiguang.jpg || WeChat
     fas fa-heart: https://wudiguang.top/images/hexo/qrcode_web.png || Web
+    fa-solid fa-rss : /atom.xml || RSS
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)
