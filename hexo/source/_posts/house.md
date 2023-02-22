@@ -9,7 +9,7 @@ categories:
   - 楼盘
   - 南崇
 keyword: "小区相关"
-description: "小区相关"
+description: "南崇、新房装修、南昌房产资讯"
 cover: https://wudiguang.top/images/hexo/house/1400x933.jpg
 top_img: https://wudiguang.top/images/hexo/house/1400x933.jpg
 ---
