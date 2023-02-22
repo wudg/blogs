@@ -45,7 +45,7 @@ copy:
 social:
     fab fa-github: https://github.com/wudg || Github
     fa-brands fa-weixin: https://wudiguang.top/images/hexo/wechat_wudiguang.jpg || WeChat
-    fas fa-heart: images/qrcode_web.png || Web
+    fas fa-heart: https://wudiguang.top/images/hexo/qrcode_web.png || Web
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)

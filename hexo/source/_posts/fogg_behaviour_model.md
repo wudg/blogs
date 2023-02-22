@@ -10,8 +10,8 @@ categories:
   - 经典书籍
 keyword: "教育,考试"
 description: "教育相关的记录"
-cover: /images/books/cover_fogg_behaviour_model.jpeg
-top_img: /images/books/cover_fogg_behaviour_model.jpeg
+cover: https://wudiguang.top/images/hexo/books/cover_fogg_behaviour_model.jpeg
+top_img: https://wudiguang.top/images/hexo/books/cover_fogg_behaviour_model.jpeg
 ---
 
 [封面图]
