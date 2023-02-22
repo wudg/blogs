@@ -8,7 +8,7 @@ categories:
   - rss
   - 工具
 keyword: "rss"
-description: "rss"
+description: "Mac上配置RSS阅读器，并订阅感兴趣的RSS源"
 cover: /images/rss_view.png
 top_img: /images/rss_view.png
 ---

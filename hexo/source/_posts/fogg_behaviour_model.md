@@ -8,8 +8,9 @@ tags:
 categories: 
   - 阅读
   - 经典书籍
-keyword: "教育,考试"
-description: "教育相关的记录"
+keyword: "福格行为模型,心理学"
+description: "福格行为模型以BJ Fogg命名，表明一个得以发生，行为者需要有进行此行为
+的动机和操作此行为的能力，因而才能够在被触发时施行既定行为。即要实现某一行为，需要有行为的动机、完成该行为的能力、刺激该行为的触发器三个要素，三个要素同时具备，行为者才能跨越行动线，行为处于“触发成功”区域，才能够实现用户完成某一行为。"
 cover: https://wudiguang.top/images/hexo/books/cover_fogg_behaviour_model.jpeg
 top_img: https://wudiguang.top/images/hexo/books/cover_fogg_behaviour_model.jpeg
 ---

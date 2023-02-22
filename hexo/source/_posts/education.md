@@ -9,7 +9,7 @@ categories:
   - 教育
   - 考试
 keyword: "教育,考试"
-description: "教育相关的记录"
+description: "教育相关的记录，中学教师资格证考试，科目一、科目二"
 cover: https://wudiguang.top/images/hexo/teacher2/cover-teacher.png
 top_img: https://wudiguang.top/images/hexo/teacher2/cover-teacher.png
 ---

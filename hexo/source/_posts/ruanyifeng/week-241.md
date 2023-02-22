@@ -7,7 +7,7 @@ tags:
 categories: 
   - 学习
 keyword: "学习"
-description: "阮一峰周刊阅读笔记"
+description: "阮一峰第241周周刊《中国的增长动力在内陆》阅读笔记"
 cover: https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png
 top_img: https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png
 ---
