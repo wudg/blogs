@@ -41,9 +41,11 @@ copy:
 # social settings (社交圖標設置)
 # formal:
 #   icon: link || the description
+# https://fontawesome.com/icons?from=io
 social:
     fab fa-github: https://github.com/wudg || Github
     fa-brands fa-weixin: https://wudiguang.top/images/hexo/wechat_wudiguang.jpg || WeChat
+    fas fa-heart: images/qrcode_web.png || Web
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
 
 # search (搜索)
