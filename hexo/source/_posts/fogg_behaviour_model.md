@@ -16,4 +16,4 @@ top_img: https://wudiguang.top/images/hexo/books/cover_fogg_behaviour_model.jpeg
 
 [封面图]
 
-![封面图](../images/books/cover_fogg_behaviour_model.jpeg)
+![封面图](https://wudiguang.top/images/hexo/books/cover_fogg_behaviour_model.jpeg)
