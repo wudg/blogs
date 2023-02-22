@@ -9,14 +9,14 @@ categories:
   - 工具
 keyword: "rss"
 description: "Mac上配置RSS阅读器，并订阅感兴趣的RSS源"
-cover: /images/rss_view.png
-top_img: /images/rss_view.png
+cover: /pic/rss_view.png
+top_img: /pic/rss_view.png
 ---
 
 
 [封面图]
 
-![封面图](../images/rss_view.png)
+![封面图](../pic/rss_view.png)
 
 ## MAC上使用RSS
 
