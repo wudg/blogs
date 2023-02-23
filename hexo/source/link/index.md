@@ -10,7 +10,7 @@ type: "link"
   link_list:
     - name: 阮一峰的个人网站
       link: https://www.ruanyifeng.com/
-      avatar: /images/link/ruanyifeng.jpg
+      avatar: https://wudiguang.top/images/hexo/link/ruanyifeng.jpg
       descr: 科技爱好者
 
 - class_name: 网站
@@ -18,6 +18,6 @@ type: "link"
   link_list:
     - name: 稀土掘金
       link: https://juejin.cn/
-      avatar: /images/link/logo-juejin.png
+      avatar: https://wudiguang.top/images/hexo/link/logo-juejin.png
       descr: 掘金是面向全球中文开发者的技术内容分享与交流平台
 {% endflink %}
