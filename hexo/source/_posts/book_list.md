@@ -1,5 +1,5 @@
 ---
-title: 2022豆瓣年度读书榜单
+title: 认真读书，好好提升自己
 date: 2023-02-23 12:23:00
 tags: 
   - 阅读
@@ -7,8 +7,8 @@ tags:
 categories: 
   - 阅读
   - 书籍
-keyword: "2022豆瓣年度读书榜单"
-description: "2022豆瓣年度读书榜单"
+keyword: "认真读书，好好提升自己"
+description: "认真读书，好好提升自己"
 cover: /pic/books/cover-book.jpeg
 top_img: /pic/books/cover-book.jpeg
 ---
