@@ -69,7 +69,7 @@ rss: /atom.xml
 
 你的RSS源地址：http://{IP}:{PORT}/atom.xml
 
-如博主的RSS就是：https://wudiguang.top/atom
+如博主的RSS就是：https://wudiguang.top/atom.xml
 
 欢迎订阅～
 
