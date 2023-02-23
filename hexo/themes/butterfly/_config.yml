@@ -145,9 +145,9 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
-  subtitle: 'Page Not Found'
-  background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
+  enable: true
+  subtitle: '页面没有找到'
+  background: https://wudiguang.top/images/hexo/big_img.jpg
 
 post_meta:
   page: # Home Page
