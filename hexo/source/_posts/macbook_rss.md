@@ -4,7 +4,7 @@ date: 2023-02-22 20:23:00
 tags: 
   - rss
 categories: 
-  - rss
+  - 好用工具类
 keyword: "rss"
 description: "Mac上配置RSS阅读器，并订阅感兴趣的RSS源"
 cover: /pic/rss_view.png

@@ -4,7 +4,7 @@ date: 2023-02-21 15:23:00
 tags: 
   - 南崇
 categories: 
-  - 南崇
+  - 房子
 keyword: "小区相关"
 description: "南崇、新房装修、南昌房产资讯"
 cover: https://wudiguang.top/images/hexo/house/1400x933.jpg

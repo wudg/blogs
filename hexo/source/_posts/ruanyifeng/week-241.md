@@ -4,7 +4,7 @@ date: 2023-02-15 12:54:00
 tags: 
   - 阮一峰
 categories: 
-  - 阮一峰
+  - 认真阅读
 keyword: "阮一峰"
 description: "阮一峰第241周周刊《中国的增长动力在内陆》阅读笔记"
 cover: https://wudiguang.top/images/hexo/ruanyifeng/cover-weekly-issue-241.png

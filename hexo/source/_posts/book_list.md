@@ -4,7 +4,7 @@ date: 2023-02-23 12:23:00
 tags: 
   - 书单
 categories: 
-  - 书单
+  - 认真阅读
 keyword: "认真读书，好好提升自己"
 description: "认真读书，好好提升自己"
 cover: /pic/books/cover-book.jpeg

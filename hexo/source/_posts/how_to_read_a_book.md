@@ -4,7 +4,7 @@ date: 2023-02-22 22:53:00
 tags: 
   - 读书
 categories: 
-  - 读书
+  - 认真阅读
 keyword: "读书"
 description: "读书笔记《如何阅读一本书》"
 cover: /pic/books/how_to_read_a_book.jpeg
