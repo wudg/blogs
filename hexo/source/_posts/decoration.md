@@ -2,12 +2,9 @@
 title: 新房装修、设计
 date: 2023-02-12 17:23:00
 tags: 
-  - 新房
-  - 装修
-  - 新家
+  - 新房装修
 categories: 
-  - 装修
-  - 新房
+  - 新房装修
 keyword: "装修,新房"
 description: "新房装修注意事项，家电购买指南，新房设计"
 cover: https://wudiguang.top/images/hexo/private/cover-new-house.jpg

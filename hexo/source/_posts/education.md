@@ -2,12 +2,9 @@
 title: 教育相关记录(教资考试)
 date: 2023-02-12 17:23:00
 tags: 
-  - 教资
-  - 教育
-  - 考试
+  - 教资考试
 categories: 
-  - 教育
-  - 考试
+  - 教资考试
 keyword: "教育,考试"
 description: "教育相关的记录，中学教师资格证考试，科目一、科目二"
 cover: https://wudiguang.top/images/hexo/teacher2/cover-teacher.png

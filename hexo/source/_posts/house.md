@@ -2,11 +2,8 @@
 title: 南昌南崇湖畔和光
 date: 2023-02-21 15:23:00
 tags: 
-  - 小区
   - 南崇
 categories: 
-  - 小区
-  - 楼盘
   - 南崇
 keyword: "小区相关"
 description: "南崇、新房装修、南昌房产资讯"

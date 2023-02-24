@@ -2,11 +2,9 @@
 title: 认真读书，好好提升自己
 date: 2023-02-23 12:23:00
 tags: 
-  - 阅读
-  - 推荐
+  - 书单
 categories: 
-  - 阅读
-  - 书籍
+  - 书单
 keyword: "认真读书，好好提升自己"
 description: "认真读书，好好提升自己"
 cover: /pic/books/cover-book.jpeg
