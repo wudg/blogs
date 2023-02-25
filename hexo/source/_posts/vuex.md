@@ -121,9 +121,44 @@ const store = new Vuex.Store({
 })
 ```
 
-组件访问State中数据的第一种方式
+1. 组件访问State中数据的第一种方式
 
 ```vue
 <!-- template中访问this可以省略 -->
 this.$store.state.全局数据名称
+```
+
+2. 组件访问State中数据的第二种方式
+
+```vue
+// 1. 从Vuex中按需导入 mapState 函数
+import {mapState} from 'vuex'
+```
+
+通过刚才导入的mapState函数，将当前组件需要的全局数据，映射为当前组件的computed计算属性
+
+```vue
+computed: {
+    ...mapState(['count'])
+}
+```
+
+### Mutation
+> Mutation用于变更Store中的数据
+
+1. 只能通过Mutation变更Store数据，不可以直接操作Store中的数据
+2. 通过这种方式虽然操作起来稍微繁琐一些，但是可以集中监控所有数据的变化
+
+```vue
+const store = new Vuex.store({
+    state: {
+        count: 0
+    },
+    mutations: {
+        add(state) {
+            //变更状态
+            state.count++
+        }
+    }
+})
 ```
