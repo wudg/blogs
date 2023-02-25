@@ -18,9 +18,9 @@ top_img: /pic/vue/cover-vuex.jpeg
 
 [在线学习](..//pic/vue/cover-vuex.jpeg)
 
-## 概述
+## 第一章 概述
 
-### 组件之间共享数据
+### 1.1 组件之间共享数据
 
 1. 父向子传值：`v-bind 属性绑定`
 2. 子向父传值：`v-on 事件绑定`
@@ -28,23 +28,23 @@ top_img: /pic/vue/cover-vuex.jpeg
    1. $on  接收数据的那个组件
    2. $emit 发送数据的那个组件
 
-### Vuex
+### 1.2 Vuex
 > Vuex是实现组件全局状态（数据）管理的一种机制，可以方便的实现组件之间数据的共享
 
 ![](../pic/vue/vuex.png)
 
-### 使用Vuex统一管理状态的好处
+### 1.3 使用Vuex统一管理状态的好处
 
 1. 能够在Vuex中集中管理共享的数据，易于开发和后期维护
 2. 能够高效地实现组件之间的数据共享，提高开发效率
 3. 存储在Vuex中的数据都是响应式的，能够实现保持数据与页面的同步
 
 
-### 什么样的数据是和存储到Vuex中
+### 1.4 什么样的数据是和存储到Vuex中
 
 一般情况，只有组件之间共享的数据，才有必要存储到Vuex中，对于组件中的私有数据，依旧存储在组件自身的data中即可
 
-## vuex基本使用
+## 第二章 vuex基本使用
 
 1. 安装vuex依赖包
 
@@ -103,15 +103,15 @@ new Vue({
 })
 ```
 
-## vuex核心概念
+## 第三章 vuex核心概念
 
-### 核心概念
+### 3.1 核心概念
 * State
 * Mutation
 * Action
 * Getter
 
-### State
+### 3.2 State
 > State提供唯一的公共数据源，所有共享的数据都要统一放在Store的State中进行存储
 
 ```js
@@ -143,7 +143,7 @@ computed: {
 }
 ```
 
-### Mutation
+### 3.3 Mutation
 > Mutation用于变更Store中的数据
 
 1. 只能通过Mutation变更Store数据，不可以直接操作Store中的数据
@@ -218,7 +218,7 @@ methods: {
 
 mutations 方法中不能写异步方法，如setTimeout()
 
-### Action
+### 3.4 Action
 > 如果通过异步操作变更数据，必须通过Action，而不能使用Mutation，但是在Action中还是要通过触发Mutation的方式间接变更数据
 
 ```js
@@ -301,5 +301,40 @@ import {mapActions} from 'vuex'
 ```js
 methods: {
     ...mapActions(['addAsync'])
+}
+```
+
+### 3.5 Getter
+> Getter 用于对Store中的数据进行加工处理形成新的数据
+
+1. Getter可以对Store中已有的数据加工处理之后形成新的数据，类似Vue的计算属性
+2. Store中数据发生变化，Getter的数据也会跟着变化
+
+```js
+const store = new Vuex.Store({
+    state: {
+        count: 0
+    },
+    getters: {
+        showNum: state => {
+            return '当前最新的数量是【' + state.count + '】'
+        }
+    }
+})
+```
+
+使用Getters的第一种方法
+
+```js
+this.$store.getters.名称
+```
+
+使用Getters的第二种方法
+
+```js
+import {mapGetters} from 'Vuex'
+
+computed: {
+    ...mapGetters(['showNum'])
 }
 ```
