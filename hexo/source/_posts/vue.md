@@ -32,59 +32,88 @@ npm install --ignore-scripts
 ![](../pic/vue/vue3-catalogue.png)
 
 
-## 组件
+### 创建应用
 
-```vue
-<!-- 模板代码 -->
-<template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <!-- 定义路由视图，视图内容根据router/index.js文件中Router对象的routes规则 -->
-    <router-view/>
-  </div>
-</template>
-<!-- 模板代码 -->
+### 模版语法
 
-<script>
-export default {
-  name: 'App'
-}
-</script>
+### 响应式基础
 
-<style>
+### 计算属性
 
-</style>
-```
+### 类与样式绑定
 
-```vue
-<!-- HelloWorld.vue -->
-<!-- 定义组件模板 -->
-<template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
-  </div>
-</template>
+### 条件渲染
 
-<script>
-// 引入组件
-import HelloWorld from '@/components/HelloWorld'
-// 导出组件 name： HelloWorld
-export default {
-  name: 'HelloWorld',
-//   定义内部数据
-  data () {
-    return {
-      msg: 'Welcome to Your Vue.js App'
-    }
-  }
-}
-</script>
-<!--   编写CSS样式 -->
-<style scoped>
+### 列表渲染
 
-</style>
-```
+### 事件处理
 
-Q1：如何把App中<HelloWorld>组件把msg参数带进去
+### 表单输入绑定
 
+### 生命周期
+
+### 侦听器
+
+### 模板引用
+
+### 组件基础
+
+## 深入组件
+
+### 注册
+
+### Props
+
+### 事件
+
+### 组件 v-model
+
+### 遗传 Attributes
+
+### 插槽
+
+### 依赖注入
+
+### 异步组件
+
+## 逻辑复用
+
+### 组合式函数
+
+### 自定义指令
+
+### 插件
+
+## 内置组件
+
+### Transition
+
+### TransitionGroup
+
+### KeepAlive
+
+### Teleport
+
+### Suspense
+
+## 应用规模化
+
+### 单文件组件
+
+### 工具链
+
+### 路由
+
+### 状态管理
+
+### 测试
+
+## 最佳实践
+
+### 生产部署
+
+### 性能优化
+
+### 无障碍访问
+
+### 安全
