@@ -56,14 +56,14 @@ sudo npm install vuex@3.6.2 --save
 
 2. 导入vuex包
 
-```vue
+```js
 import Vuex from 'vuex'
 Vue.use(Vuex)
 ```
 
 3. 创建store对象
 
-```vue
+```js
 const store = new Vuex.Sotre({
     // state中存放的就是全局共享的数据
     state: {count: 0}
@@ -92,7 +92,7 @@ export default new Vuex.Store({
 
 4. 将store对象挂载到vue实例中
 
-```vue
+```js
 new Vue({
     el: '#app',
     render: h => h(app),
@@ -114,7 +114,7 @@ new Vue({
 ### State
 > State提供唯一的公共数据源，所有共享的数据都要统一放在Store的State中进行存储
 
-```vue
+```js
 <!-- 创建store数据源，提供唯一公共数据 -->
 const store = new Vuex.Store({
     state: {count: 0}
@@ -123,21 +123,21 @@ const store = new Vuex.Store({
 
 1. 组件访问State中数据的第一种方式
 
-```vue
+```js
 <!-- template中访问this可以省略 -->
 this.$store.state.全局数据名称
 ```
 
 2. 组件访问State中数据的第二种方式
 
-```vue
+```js
 // 1. 从Vuex中按需导入 mapState 函数
 import {mapState} from 'vuex'
 ```
 
 通过刚才导入的mapState函数，将当前组件需要的全局数据，映射为当前组件的computed计算属性
 
-```vue
+```js
 computed: {
     ...mapState(['count'])
 }
@@ -149,7 +149,7 @@ computed: {
 1. 只能通过Mutation变更Store数据，不可以直接操作Store中的数据
 2. 通过这种方式虽然操作起来稍微繁琐一些，但是可以集中监控所有数据的变化
 
-```vue
+```js
 <!-- 定义Mutation -->
 const store = new Vuex.store({
     state: {
@@ -164,7 +164,7 @@ const store = new Vuex.store({
 })
 ```
 
-```vue
+```js
 <!-- 触发Mutation -->
 methods: {
     handle1 () {
@@ -176,7 +176,7 @@ methods: {
 
 `可以在触发Mutations时传递参数`
 
-```vue
+```js
 <!-- 定义Mutation -->
 const store = new Vuex.store({
     state: {
@@ -191,7 +191,7 @@ const store = new Vuex.store({
 })
 ```
 
-```vue
+```js
 <!-- 触发Mutation -->
 methods: {
     handle2 () {
@@ -203,14 +203,14 @@ methods: {
 
 this.$store.comit()是触发Mutation的第一种方式，触发Mutation的第二种方式
 
-```vue
+```js
 按需导入mapMutation函数
 import {mapMutations} from 'vuex'
 ```
 
 通过上面导入的mapMutations函数，将需要的Mutations函数，映射为当前组件的methods方法
 
-```vue
+```js
 methods: {
     ...mapMutations(['add', 'addN'])
 }
@@ -221,7 +221,7 @@ mutations 方法中不能写异步方法，如setTimeout()
 ### Action
 > 如果通过异步操作变更数据，必须通过Action，而不能使用Mutation，但是在Action中还是要通过触发Mutation的方式间接变更数据
 
-```vue
+```js
 <!-- 定义Action -->
 const store = new Vuex.store({
     state: {
@@ -244,7 +244,7 @@ const store = new Vuex.store({
 })
 ```
 
-```vue
+```js
 <!-- 触发Action -->
 methods: {
     handle() {
@@ -256,7 +256,7 @@ methods: {
 
 触发Action异步任务时携带参数
 
-```vue
+```js
 <!-- 定义Action -->
 const store = new Vuex.store({
     state: {
@@ -279,7 +279,7 @@ const store = new Vuex.store({
 })
 ```
 
-```vue
+```js
 <!-- 触发Action -->
 methods: {
     handle() {
@@ -291,14 +291,14 @@ methods: {
 
 this.$store.dispatch()是触发Action的第一种方式，触发Action的第二种方式
 
-```vue
+```js
 按需导入mapActions函数
 import {mapActions} from 'vuex'
 ```
 
 通过上面导入的mapMutations函数，将需要的Mutations函数，映射为当前组件的methods方法
 
-```vue
+```js
 methods: {
     ...mapActions(['addAsync'])
 }
