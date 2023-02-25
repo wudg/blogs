@@ -150,6 +150,7 @@ computed: {
 2. 通过这种方式虽然操作起来稍微繁琐一些，但是可以集中监控所有数据的变化
 
 ```vue
+<!-- 定义Mutation -->
 const store = new Vuex.store({
     state: {
         count: 0
@@ -161,4 +162,144 @@ const store = new Vuex.store({
         }
     }
 })
+```
+
+```vue
+<!-- 触发Mutation -->
+methods: {
+    handle1 () {
+        <!-- 触发Mutation的第一种方式 -->
+        this.$store.commit('add')
+    }
+}
+```
+
+`可以在触发Mutations时传递参数`
+
+```vue
+<!-- 定义Mutation -->
+const store = new Vuex.store({
+    state: {
+        count: 0
+    },
+    mutations: {
+        add(state, step) {
+            //变更状态
+            state.count += step
+        }
+    }
+})
+```
+
+```vue
+<!-- 触发Mutation -->
+methods: {
+    handle2 () {
+        <!-- 触发Mutation时携带参数 -->
+        this.$store.commit('add', 3)
+    }
+}
+```
+
+this.$store.comit()是触发Mutation的第一种方式，触发Mutation的第二种方式
+
+```vue
+按需导入mapMutation函数
+import {mapMutations} from 'vuex'
+```
+
+通过上面导入的mapMutations函数，将需要的Mutations函数，映射为当前组件的methods方法
+
+```vue
+methods: {
+    ...mapMutations(['add', 'addN'])
+}
+```
+
+mutations 方法中不能写异步方法，如setTimeout()
+
+### Action
+> 如果通过异步操作变更数据，必须通过Action，而不能使用Mutation，但是在Action中还是要通过触发Mutation的方式间接变更数据
+
+```vue
+<!-- 定义Action -->
+const store = new Vuex.store({
+    state: {
+        count: 0
+    },
+    mutations: {
+        add(state) {
+            //变更状态
+            state.count++
+        }
+    },
+    actions: {
+        addAsync (context) {
+            setTimeout(() => {
+                // 在Action中不能直接修改State中数据，只能通过Mutations中函数修改
+                context.commit('add')
+            }, 1000)
+        }
+    }
+})
+```
+
+```vue
+<!-- 触发Action -->
+methods: {
+    handle() {
+        <!-- 触发actions的第一种方式 -->
+        this.$store.dispatch('addAsync')
+    }
+}
+```
+
+触发Action异步任务时携带参数
+
+```vue
+<!-- 定义Action -->
+const store = new Vuex.store({
+    state: {
+        count: 0
+    },
+    mutations: {
+        addN(state, step) {
+            //变更状态
+            state.count += step
+        }
+    },
+    actions: {
+        addNAsync (context, step) {
+            setTimeout(() => {
+                // 在Action中不能直接修改State中数据，只能通过Mutations中函数修改
+                context.commit('addN', step)
+            }, 1000)
+        }
+    }
+})
+```
+
+```vue
+<!-- 触发Action -->
+methods: {
+    handle() {
+        <!-- 触发actions的第一种方式 -->
+        this.$store.dispatch('addAsync', 5)
+    }
+}
+```
+
+this.$store.dispatch()是触发Action的第一种方式，触发Action的第二种方式
+
+```vue
+按需导入mapActions函数
+import {mapActions} from 'vuex'
+```
+
+通过上面导入的mapMutations函数，将需要的Mutations函数，映射为当前组件的methods方法
+
+```vue
+methods: {
+    ...mapActions(['addAsync'])
+}
 ```
