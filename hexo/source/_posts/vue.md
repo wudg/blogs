@@ -5,7 +5,7 @@ tags:
   - 技术
   - 前端
 categories: 
-  - 认真阅读
+  - 前端
 keyword: "好好学习技术"
 description: "vue3学习笔记"
 cover: /pic/vue/cover-vue.jpeg
