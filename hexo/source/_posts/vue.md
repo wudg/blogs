@@ -12,27 +12,115 @@ cover: /pic/vue/cover-vue.jpeg
 top_img: /pic/vue/cover-vue.jpeg
 ---
 
-[vue3教程](https://www.runoob.com/vue3/vue3-tutorial.html)
+[vue3教程](https://cn.vuejs.org/guide/introduction.html)
 
 预备知识：HTML、CSS、JavaScript
 
-> vue.js（读音 /vjuː/, 类似于 view） 是一套构建用户界面的渐进式框架。
-Vue 只关注视图层， 采用自底向上增量开发的设计。
-Vue 的目标是通过尽可能简单的 API 实现响应的数据绑定和组合的视图组件。
-Vue 学习起来非常简单，本教程基于 Vue 3.0.5 版本测试。
+> Vue (发音为 /vjuː/，类似 view) 是一款用于构建用户界面的 JavaScript 框架。它基于标准 HTML、CSS 和 JavaScript 构建，并提供了一套声明式的、组件化的编程模型，帮助你高效地开发用户界面。无论是简单还是复杂的界面，Vue 都可以胜任。
 
 ## 基础
 
-基础案例，如 `basic/demo.html`
-
 安装cnpm：npm install cnpm -g
 安装vue-cli：cnpm install -g @vue/cli
-npm install --ignore-scripts
+MAC报错：npm install --ignore-scripts
 
 ![](../pic/vue/vue3-catalogue.png)
 
+## 开始
+
+### 简介
+
+```html
+<div id="app">
+  <button @click="count++">
+    Count is: {{ count }}
+  </button>
+</div>
+```
+
+```js
+import { createApp } from 'vue'
+
+createApp({
+  data() {
+    return {
+      count: 0
+    }
+  }
+}).mount('#app')
+```
+
+```js
+// *.vue
+// 单文件组件,模板 (HTML) 和样式 (CSS) 封装在同一个文件里
+<script>
+export default {
+  data() {
+    return {
+      count: 0
+    }
+  }
+}
+</script>
+
+<template>
+  <button @click="count++">Count is: {{ count }}</button>
+</template>
+
+<style scoped>
+button {
+  font-weight: bold;
+}
+</style>
+
+```
+
+上面示例展示了Vue的两个核心功能：
+1. 声明式渲染：Vue基于标准HTML拓展了一套模版语法，使得我们可以声明式地描述最终输出的HTML和JavaScript状态之间的关系
+2. 响应性：Vue会自动跟踪JavaScript状态并在其变化时响应地更新DOM
+
+### 快速上手
+
+```shell
+npm init vue@latest
+> cd <your-project-name>
+> npm install
+> npm run dev
+# 发布到生产环境
+> npm run build
+```
 
 ### 创建应用
+
+```html
+<div id="app">
+  <button @click="count++">{{ count }}</button>
+</div>
+```
+
+```js
+import { createApp } from 'vue'
+
+const app = createApp({
+  data() {
+    return {
+      count: 0
+    }
+  }
+})
+
+app.mount('#app')
+```
+
+配置全局
+
+```config
+app.config.errorHandler = (err) => {
+  /* 处理错误 */
+}
+<!-- 组件注册 -->
+app.component('TodoDeleteButton', TodoDeleteButton)
+```
 
 ### 模版语法
 
