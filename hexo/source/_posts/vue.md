@@ -124,11 +124,128 @@ app.component('TodoDeleteButton', TodoDeleteButton)
 
 ### 模版语法
 
+```html
+<!-- 文本插值 -->
+<span>Message: {{ msg }}</span>
 
+<!-- 原始HTML -->
+<p>Using text interpolation: {{ rawHtml }}</p>
+<p>Using v-html directive: <span v-html="rawHtml"></span></p>
+
+<!-- 属性绑定 -->
+<div v-bind:id="dynamicId"></div>
+<!-- 简写 -->
+<div :id="dynamicId"></div>
+<!-- 布尔型属性 -->
+<button :disabled="isButtonDisabled">Button</button>
+```
+
+<!-- 绑定多个值 -->
+```js
+<div v-bind="objectOfAttrs"></div>
+data() {
+  return {
+    objectOfAttrs: {
+      id: 'container',
+      class: 'wrapper'
+    }
+  }
+}
+```
+
+使用JavaScript表达式
+```html
+{{ number + 1 }}
+
+{{ ok ? 'YES' : 'NO' }}
+
+{{ message.split('').reverse().join('') }}
+
+<div :id="`list-${id}`"></div>
+```
+
+指令
+```html
+<p v-if="seen">Now you see me</p>
+
+<a v-bind:href="url"> ... </a>
+
+<!-- 简写 -->
+<a :href="url"> ... </a>
+
+<!-- 点击事件 -->
+<a v-on:click="doSomething"> ... </a>
+
+<!-- 简写 -->
+<a @click="doSomething"> ... </a>
+
+<!--
+注意，参数表达式有一些约束，
+参见下面“动态参数值的限制”与“动态参数语法的限制”章节的解释
+-->
+<a v-bind:[attributeName]="url"> ... </a>
+
+<!-- 简写 -->
+<a :[attributeName]="url"> ... </a>
+
+```
+
+完整指令语法
+![](../pic/vue/complete_instruction.png)
 
 ### 响应式基础
 
+声明方法
+```js
+export default {
+  data() {
+    return {
+      count: 0
+    }
+  },
+  methods: {
+    increment() {
+      this.count++
+    }
+  },
+  mounted() {
+    // 在其他方法或是生命周期中也可以调用方法
+    this.increment()
+  }
+}
+```
+
 ### 计算属性
+> 使用计算属性来描述依赖响应式状态的复杂逻辑
+
+```js
+export default {
+  data() {
+    return {
+      author: {
+        name: 'John Doe',
+        books: [
+          'Vue 2 - Advanced Guide',
+          'Vue 3 - Basic Guide',
+          'Vue 4 - The Mystery'
+        ]
+      }
+    }
+  },
+  computed: {
+    // 一个计算属性的 getter
+    publishedBooksMessage() {
+      // `this` 指向当前组件实例
+      return this.author.books.length > 0 ? 'Yes' : 'No'
+    }
+  }
+}
+```
+
+```html
+<p>Has published books:</p>
+<span>{{ publishedBooksMessage }}</span>
+```
 
 ### 类与样式绑定
 
