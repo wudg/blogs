@@ -11,6 +11,10 @@ cover: /pic/cover-tax.jpeg
 top_img: /pic/cover-tax.jpeg
 ---
 
+[封面图]
+
+![封面图](../pic/cover-tax.jpeg)
+
 退税时间：3月1日～6月31日
 
 ## 退税步骤
