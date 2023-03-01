@@ -11,6 +11,10 @@ cover: /pic/cover-breakfast.jpeg
 top_img: /pic/cover-breakfast.jpeg
 ---
 
+[封面图]
+
+![封面图](../pic/cover-breakfast.jpeg)
+
 利润率：15%～20%
 
 ## 开店前确认事项
