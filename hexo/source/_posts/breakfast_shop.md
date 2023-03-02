@@ -7,9 +7,13 @@ categories:
   - 开店
 keyword: "开店,创业"
 description: "开个早餐店"
-cover: /pic/vue/cover-vuex.jpeg
-top_img: /pic/vue/cover-vuex.jpeg
+cover: /pic/cover-breakfast.jpeg
+top_img: /pic/cover-breakfast.jpeg
 ---
+
+[封面图]
+
+![封面图](../pic/cover-breakfast.jpeg)
 
 利润率：15%～20%
 
