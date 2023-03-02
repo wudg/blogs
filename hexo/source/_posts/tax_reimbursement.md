@@ -13,7 +13,7 @@ top_img: /pic/cover-tax.jpeg
 
 [封面图]
 
-![封面图](../pic/cover-tax.jpeg)
+![封面图](https://wudiguang.top/images/hexo/cover-tax.jpeg)
 
 退税时间：3月1日～6月31日
 

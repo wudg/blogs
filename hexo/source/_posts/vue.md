@@ -24,7 +24,7 @@ top_img: /pic/vue/cover-vue.jpeg
 安装vue-cli：cnpm install -g @vue/cli
 MAC报错：npm install --ignore-scripts
 
-![](../pic/vue/vue3-catalogue.png)
+![](https://wudiguang.top/images/hexo/vue/vue3-catalogue.png)
 
 ## 开始
 
@@ -191,7 +191,7 @@ data() {
 ```
 
 完整指令语法
-![](../pic/vue/complete_instruction.png)
+![](https://wudiguang.top/images/hexo/vue/complete_instruction.png)
 
 ### 响应式基础
 

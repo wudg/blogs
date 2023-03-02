@@ -14,7 +14,7 @@ type: "link"
       descr: 科技爱好者
     - name: Hillyee-blog
       link: https://hillyee.github.io/
-      avatar: ../pic/blogger/hillyee.jpg
+      avatar: https://wudiguang.top/images/hexo/blogger/hillyee.jpg
       descr: 前端爱好者
 
 - class_name: 网站

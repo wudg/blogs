@@ -13,7 +13,7 @@ top_img: /pic/cover-generic.png
 
 [封面图]
 
-![封面图](../pic/cover-generic.png)
+![封面图](https://wudiguang.top/images/hexo/cover-generic.png)
 
 ## 泛型概述
 

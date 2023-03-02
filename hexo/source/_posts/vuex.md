@@ -14,7 +14,7 @@ top_img: /pic/vue/cover-vuex.jpeg
 
 [封面图]
 
-![封面图](../pic/vue/cover-vuex.jpeg)
+![封面图](https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg)
 
 [在线学习](..//pic/vue/cover-vuex.jpeg)
 
@@ -31,7 +31,7 @@ top_img: /pic/vue/cover-vuex.jpeg
 ### 1.2 Vuex
 > Vuex是实现组件全局状态（数据）管理的一种机制，可以方便的实现组件之间数据的共享
 
-![](../pic/vue/vuex.png)
+![](https://wudiguang.top/images/hexo/vue/vuex.png)
 
 ### 1.3 使用Vuex统一管理状态的好处
 

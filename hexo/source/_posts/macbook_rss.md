@@ -14,7 +14,7 @@ top_img: /pic/rss_view.png
 
 [封面图]
 
-![封面图](../pic/rss_view.png)
+![封面图](https://wudiguang.top/images/hexo/rss_view.png)
 
 ## MAC上使用RSS
 

@@ -13,7 +13,7 @@ top_img: /pic/books/cover-book.jpeg
 
 [封面图]
 
-![封面图](../pic/books/cover-book.jpeg)
+![封面图](https://wudiguang.top/images/hexo/books/cover-book.jpeg)
 
 ## 【经典阅读】/【财富类】/【自我提升】
 

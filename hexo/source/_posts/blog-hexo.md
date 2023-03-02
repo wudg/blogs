@@ -13,7 +13,7 @@ top_img: /pic/cover-hexo.jpeg
 
 [封面图]
 
-![封面图](../pic/cover-hexo.jpeg)
+![封面图](https://wudiguang.top/images/hexo/cover-hexo.jpeg)
 
 ## 环境准备
 1. 本地配置`npm`环境 [下载安装](https://link.zhihu.com/?target=https%3A//nodejs.org/en/download/)
