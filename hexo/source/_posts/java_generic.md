@@ -1,6 +1,6 @@
 ---
 title: Java泛型
-date: 2023-02-21 15:23:00
+date: 2023-03-02 10:23:00
 tags: 
   - 泛型
 categories: 
