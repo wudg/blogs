@@ -17,7 +17,7 @@ top_img: /pic/cover-hexo.jpeg
 
 ## 环境准备
 1. 本地配置`npm`环境 [下载安装](https://link.zhihu.com/?target=https%3A//nodejs.org/en/download/)
-2. 安装hexo：`npm install hexo -g` `npm install -g hexo-cli`
+2. 安装hexo：`npm install hexo -g,npm install -g hexo-cli`
 3. 安装部署插件：`npm install hexo-deployer-git --save`
 4. 配置`git`环境
 ```shell
