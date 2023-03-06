@@ -11,6 +11,10 @@ cover: /pic/cover-frp.jpeg
 top_img: /pic/cover-frp.jpeg
 ---
 
+[封面图]
+
+![封面图](../pic/cover-frp.jpeg)
+
 ## 工具目的
 > 将本地运行的http服务，穿透到外网，即通过外网IP即可访问到我们本地的web服务
 
