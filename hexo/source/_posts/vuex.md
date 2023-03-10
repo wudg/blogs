@@ -8,15 +8,15 @@ categories:
   - 前端
 keyword: "好好学习技术"
 description: "vuex学习笔记"
-cover: /pic/vue/cover-vuex.jpeg
-top_img: /pic/vue/cover-vuex.jpeg
+cover: https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg
+top_img: https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg
 ---
 
 [封面图]
 
 ![封面图](https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg)
 
-[在线学习](..//pic/vue/cover-vuex.jpeg)
+[在线学习](../https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg)
 
 ## 第一章 概述
 

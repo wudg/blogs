@@ -7,8 +7,8 @@ categories:
   - 好用工具类
 keyword: "rss"
 description: "Mac上配置RSS阅读器，并订阅感兴趣的RSS源"
-cover: /pic/rss_view.png
-top_img: /pic/rss_view.png
+cover: https://wudiguang.top/images/hexo/rss_view.png
+top_img: https://wudiguang.top/images/hexo/rss_view.png
 ---
 
 

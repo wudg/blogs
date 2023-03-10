@@ -7,8 +7,8 @@ categories:
   - java
 keyword: "Java,泛型"
 description: "Java泛型"
-cover: /pic/cover-generic.png
-top_img: /pic/cover-generic.png
+cover: https://wudiguang.top/images/hexo/cover-generic.png
+top_img: https://wudiguang.top/images/hexo/cover-generic.png
 ---
 
 [封面图]

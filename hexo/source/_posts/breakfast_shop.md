@@ -7,8 +7,8 @@ categories:
   - 开店
 keyword: "开店,创业"
 description: "开个早餐店"
-cover: /pic/cover-breakfast.jpeg
-top_img: /pic/cover-breakfast.jpeg
+cover: https://wudiguang.top/images/hexo/cover-breakfast.jpeg
+top_img: https://wudiguang.top/images/hexo/cover-breakfast.jpeg
 ---
 
 [封面图]

@@ -7,8 +7,8 @@ categories:
   - 搭建博客
 keyword: "hexo搭建个人博客"
 description: "hexo搭建个人博客"
-cover: /pic/cover-hexo.jpeg
-top_img: /pic/cover-hexo.jpeg
+cover: https://wudiguang.top/images/hexo/cover-hexo.jpeg
+top_img: https://wudiguang.top/images/hexo/cover-hexo.jpeg
 ---
 
 [封面图]

@@ -7,8 +7,8 @@ categories:
   - 认真阅读
 keyword: "读书"
 description: "读书笔记《如何阅读一本书》"
-cover: /pic/books/how_to_read_a_book.jpeg
-top_img: /pic/books/how_to_read_a_book.jpeg
+cover: https://wudiguang.top/images/hexo/books/how_to_read_a_book.jpeg
+top_img: https://wudiguang.top/images/hexo/books/how_to_read_a_book.jpeg
 ---
 
 ## 阅读的层次

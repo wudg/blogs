@@ -7,8 +7,8 @@ categories:
   - 生活
 keyword: "退税全攻略"
 description: "退税全攻略"
-cover: /pic/cover-tax.jpeg
-top_img: /pic/cover-tax.jpeg
+cover: https://wudiguang.top/images/hexo/cover-tax.jpeg
+top_img: https://wudiguang.top/images/hexo/cover-tax.jpeg
 ---
 
 [封面图]

@@ -7,8 +7,8 @@ categories:
   - 认真阅读
 keyword: "认真读书，好好提升自己"
 description: "认真读书，好好提升自己"
-cover: /pic/books/cover-book.jpeg
-top_img: /pic/books/cover-book.jpeg
+cover: https://wudiguang.top/images/hexo/books/cover-book.jpeg
+top_img: https://wudiguang.top/images/hexo/books/cover-book.jpeg
 ---
 
 [封面图]

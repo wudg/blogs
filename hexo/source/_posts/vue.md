@@ -8,8 +8,8 @@ categories:
   - 前端
 keyword: "好好学习技术"
 description: "vue3学习笔记"
-cover: /pic/vue/cover-vue.jpeg
-top_img: /pic/vue/cover-vue.jpeg
+cover: https://wudiguang.top/images/hexo/vue/cover-vue.jpeg
+top_img: https://wudiguang.top/images/hexo/vue/cover-vue.jpeg
 ---
 
 [vue3教程](https://cn.vuejs.org/guide/introduction.html)
