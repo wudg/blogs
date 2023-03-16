@@ -1,12 +1,12 @@
 ---
-title: hexo搭建个人博客
+title: 【博客】环境搭建之hexo＋butterfly
 date: 2023-03-02 18:40:00
 tags: 
   - hexo
 categories: 
-  - 搭建博客
-keyword: "hexo搭建个人博客"
-description: "hexo搭建个人博客"
+  - 博客
+keyword: "【博客】环境搭建之hexo＋butterfly"
+description: "【博客】环境搭建之hexo＋butterfly"
 cover: https://wudiguang.top/images/hexo/cover-hexo.jpeg
 top_img: https://wudiguang.top/images/hexo/cover-hexo.jpeg
 ---

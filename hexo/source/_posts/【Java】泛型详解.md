@@ -1,12 +1,12 @@
 ---
-title: Java泛型
+title: 【Java】泛型详解
 date: 2023-03-02 10:23:00
 tags: 
   - 泛型
 categories: 
   - java
 keyword: "Java,泛型"
-description: "Java泛型"
+description: "【Java】泛型详解"
 cover: https://wudiguang.top/images/hexo/cover-generic.png
 top_img: https://wudiguang.top/images/hexo/cover-generic.png
 ---

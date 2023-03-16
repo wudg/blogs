@@ -1,12 +1,12 @@
 ---
-title: 内网穿透工具frp
+title: 【工具类】内网穿透工具frp
 date: 2023-03-06 13:20:00
 tags: 
   - frp
 categories: 
   - 工具
-keyword: "内网穿透工具frp"
-description: "内网穿透工具frp"
+keyword: "【工具类】内网穿透工具frp"
+description: "【工具类】内网穿透工具frp"
 cover: https://wudiguang.top/images/hexo/cover-frp.jpeg
 top_img: https://wudiguang.top/images/hexo/cover-frp.jpeg
 ---

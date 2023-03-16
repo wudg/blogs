@@ -1,12 +1,12 @@
 ---
-title: hexo好的看主题集合
+title: 【博客】hexo好的看主题集合
 date: 2023-03-05 18:40:00
 tags: 
-  - hexo主题
+  - hexo
 categories: 
-  - 搭建博客
-keyword: "hexo好的看主题集合"
-description: "hexo好的看主题集合"
+  - 博客
+keyword: "【博客】hexo好的看主题集合"
+description: "【博客】hexo好的看主题集合"
 cover: https://wudiguang.top/images/hexo/cover-hexo.jpeg
 top_img: https://wudiguang.top/images/hexo/cover-hexo.jpeg
 ---
