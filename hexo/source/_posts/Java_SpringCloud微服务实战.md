@@ -7,8 +7,8 @@ categories:
   - java
 keyword: "Java,SpringCloud"
 description: "SpringCloud实战详解"
-cover: /pic/cover-book004.png
-top_img: /pic/cover-book004.png
+cover: /pic/books/cover-book004.png
+top_img: /pic/books/cover-book004.png
 ---
 
 ## 基础知识
