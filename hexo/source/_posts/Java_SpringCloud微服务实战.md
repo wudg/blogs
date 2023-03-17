@@ -100,12 +100,84 @@ Spring Cloud是一个基于Spring Boot实现的微服务架构开发工具。它
 ### 版本说明
 
 #### 版本名和版本号
-由于Spring Cloud不像Spring社区其他一些项目那样独立，它是一个拥有诸多子项目的大型综合项目，可以说是对微服务架构方案的综合套件组合，其包含的各个子项目也都独立进行着内容更新与迭代，各自都维护着自己的发布版本号。因此每一个Spring Cloud的版本都会包含多个不同版本的子项目，为了管理每个版本的子项目清单，避免Spring Cloud的版本号与其子项目的版本号相混淆，没有采用版本号的方式，而是通过命名的方式。
+由于`Spring Cloud`不像`Spring`社区其他一些项目那样独立，它是一个拥有诸多子项目的大型综合项目，可以说是对微服务架构方案的综合套件组合，其包含的各个子项目也都独立进行着内容更新与迭代，各自都维护着自己的发布版本号。因此每一个`Spring Cloud`的版本都会包含多个不同版本的子项目，为了管理每个版本的子项目清单，避免`Spring Cloud`的版本号与其子项目的版本号相混淆，没有采用版本号的方式，而是通过命名的方式。
 
 【版本名】.【版本号】，如Angel.SR6、Brixton.SR5中的SR6、SR5就是版本号
 
-
 ## 微服务构建：Spring Boot
+
+是`Spring Cloud`的基础
+
+### 框架简介
+
+`Spring Boot`的总之并非要重写`Spring`或是替代`Spring`，而是希望通过设计大量的自动化配置等方式来简化Spring原有样板化的配置，使得开发者可以快速构建应用。
+
+除了解决配置问题之外，`Spring Boot`还通过一系列`Starter POMs`的定义，让我们整合各项功能的时候，不需要在`Maven`的`pom.xml`中维护那些错综复杂的依赖关系，而是通过类似模块化的Starter模块定义来应用，使得依赖管理工作变得更加简单
+
+Spring Boot除了可以很好融入`Docker`之外，其自身就支持嵌入式的`Tomcat、Jetty`等容器。所以，通过Spring Boot构建的应用不再需要安装`Tomcat`，将应用打包成`war`，再部署到`Tomcat`这样复杂的构建与部署动作，只需要将`Spring Boot`应用打成`jar`包，并通过`java -jar`命令直接运行就能启用一个标准化的Web应用，这使得Spring Boot应用变得非常轻便。
+
+整个Spring Boot的生态系统都是用到了`Groovy`，很自然的，我们完全可以通过使用`Gradle`和`Groovy`来开发`Spring Boot`应用，如下面短短的不足100个字符的代码，通过编译打包，使用`java -jar`命令就能启用一个返回`hello`的`RESTful API`
+
+```java
+@RestController
+class App {
+  @RequestMapping("/")
+  String home(){
+    "hello"
+  }
+}
+```
+
+### 快速入门
+
+使用`https://start.spring.io/`来创建`Maven`项目，并引入`Web`依赖
+
+* spring-boot-starter-web：全栈`Web`开发模块，包含嵌入式`Tomcat、Spring MVC`
+* spring-boot-starter-test：通用测试模块，包含`JUnit、Hamcrest、Mockito`
+
+只需要通过`mvn spring-boot:run`命令就可以快速启动`Spring Boot`应用
+
+### 实现RESTful API
+
+```java
+@RestController
+public class App {
+  @RequestMapping("/")
+  public String home(){
+    return "Hello World";
+  }
+}
+```
+
+启动应用并通过浏览器访问`http://localhost:8080/hello`，我们可以看到返回了预期结果：`Hello World`
+
+`编写单元测试`
+
+```java
+// 引入Spring对JUnit4的支持
+@RunWith(SpringJUnit4ClassRunner.class)
+// 指定Spring Boot的启动类
+@SpringApplicationConfiguration(classes = HelloApplication.clss)
+// 开启Web应用的配置，用于模拟ServletContext
+@WebAppConfiguration
+public class HelloApplicationTest{
+  // 用于模拟调用Controller的接口发起请求，在@Test定义的hello测试用例中，perform行数执行一次请求调用，accept用于执行接收的数据类型，andExpect用于判断接口返回的期望值
+  private MockMvc mvc;
+  // JUnit中定义在测试用例@Test内容执行前预加载的内容，这里用来初始化对HelloController的模拟
+  @Before
+  public void setUp() throws Exception {
+    mvc = MockMvcBuilders.standaloneSetup(new HelloController()).build();
+  }
+
+  @Test
+  public void hello() throws Exception{
+    mvc.perform(MockMvcRequestBuilders.get("/hello").accept(MediaType.Application_JSON)
+        .andExpect(status().isOK())
+        .andExpect(content().string(equalTo("Hello World")))
+    );
+  }
+}
+``
 
 
 ## 服务治理：Spring Cloud Eureka
