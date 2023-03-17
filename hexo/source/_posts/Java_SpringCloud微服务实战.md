@@ -11,6 +11,10 @@ cover: /pic/books/cover-book004.png
 top_img: /pic/books/cover-book004.png
 ---
 
+[封面图]
+
+![封面图](../pic/books/cover-book004.png)
+
 ## 基础知识
 
 ### 什么是微服务架构
