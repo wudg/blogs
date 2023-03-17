@@ -93,12 +93,16 @@ Spring Cloud是一个基于Spring Boot实现的微服务架构开发工具。它
 * Spring Cloud CLI：用于在Groovy中快速创建Spring Cloud应用的Spring Boot CLI插件
 * ...
 
+### 版本说明
 
+#### 版本名和版本号
+由于Spring Cloud不像Spring社区其他一些项目那样独立，它是一个拥有诸多子项目的大型综合项目，可以说是对微服务架构方案的综合套件组合，其包含的各个子项目也都独立进行着内容更新与迭代，各自都维护着自己的发布版本号。因此每一个Spring Cloud的版本都会包含多个不同版本的子项目，为了管理每个版本的子项目清单，避免Spring Cloud的版本号与其子项目的版本号相混淆，没有采用版本号的方式，而是通过命名的方式。
 
-
+【版本名】.【版本号】，如Angel.SR6、Brixton.SR5中的SR6、SR5就是版本号
 
 
 ## 微服务构建：Spring Boot
+
 
 ## 服务治理：Spring Cloud Eureka
 
