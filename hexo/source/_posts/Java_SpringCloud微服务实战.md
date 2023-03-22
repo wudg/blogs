@@ -7,13 +7,13 @@ categories:
   - java
 keyword: "Java,SpringCloud"
 description: "SpringCloud实战详解"
-cover: /pic/books/cover-book004.png
-top_img: /pic/books/cover-book004.png
+cover: https://wudiguang.top/images/hexo/books/cover-book004.png
+top_img: https://wudiguang.top/images/hexo/books/cover-book004.png
 ---
 
 [封面图]
 
-![封面图](../pic/books/cover-book004.png)
+![封面图](https://wudiguang.top/images/hexo/books/cover-book004.png)
 
 ## 基础知识
 
