@@ -7,13 +7,13 @@ categories:
   - 好用工具类
 keyword: "arthas"
 description: "【工具类】arthas实践"
-cover: /pic/tools/cover-arthas.png
-top_img: /pic/tools/cover-arthas.png
+cover: /pic/tools/cover-arthas.jpg
+top_img: /pic/tools/cover-arthas.jpg
 ---
 
 [封面图]
 
-![封面图](../pic/tools/cover-arthas.png)
+![封面图](../pic/tools/cover-arthas.jpg)
 
 ## 简介
 
