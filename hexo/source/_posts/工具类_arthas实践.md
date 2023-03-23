@@ -46,7 +46,7 @@ Arthas 旨在解决线上debug问题。开发人员可以在线解决生产问�
 watch com.wdg.Executor onTime '{params,returnObj,throwExp}'  -n 50  -x 3 
 ```
 
-`上面命令功能：监听`com.wdg.Executor`类中的`onTime`方法，循环次数为50次，解析参数深度为3层`
+上面命令功能：监听`com.wdg.Executor`类中的`onTime`方法，循环次数为50次，解析参数深度为3层
 
 ## debug运行在docker中的java服务
 
