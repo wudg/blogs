@@ -7,13 +7,13 @@ categories:
   - 好用工具类
 keyword: "stable-diffusion"
 description: "【工具类】stable diffusion体验"
-cover: /pic/tools/stablediffusion.jpeg
-top_img: /pic/tools/stablediffusion.jpeg
+cover: https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg
+top_img: https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg
 ---
 
 [封面图]
 
-![封面图](../pic/tools/stablediffusion.jpeg)
+![封面图](..https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg)
 
 ## 概述
 

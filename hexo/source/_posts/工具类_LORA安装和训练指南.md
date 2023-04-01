@@ -7,8 +7,8 @@ categories:
   - 好用工具类
 keyword: "【工具类】LORA安装和训练指南｜高质量模特养成｜教你打造自己专属的迷人模特"
 description: "【工具类】LORA安装和训练指南｜高质量模特养成｜教你打造自己专属的迷人模特"
-cover: /pic/tools/cover-arthas.jpg
-top_img: /pic/tools/cover-arthas.jpg
+cover: https://wudiguang.top/images/hexo/tools/cover-arthas.jpg
+top_img: https://wudiguang.top/images/hexo/tools/cover-arthas.jpg
 ---
 
 ## 下载安装AUTOMATIC1111
