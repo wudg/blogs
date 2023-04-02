@@ -13,7 +13,7 @@ top_img: https://wudiguang.top/images/hexo/tools/cover-arthas.jpg
 
 [封面图]
 
-![封面图](..https://wudiguang.top/images/hexo/tools/cover-arthas.jpg)
+![封面图](https://wudiguang.top/images/hexo/tools/cover-arthas.jpg)
 
 ## 简介
 
@@ -38,7 +38,7 @@ Arthas 旨在解决线上debug问题。开发人员可以在线解决生产问�
 
 在运行java服务的机器上，下载并运行arthas：`wget https://arthas.aliyun.com/arthas-boot.jar && java -jar arthas-boot.jar`
 
-![arthas-plugin2](..https://wudiguang.top/images/hexo/tools/arthas-cmd.png)
+![arthas-plugin2](https://wudiguang.top/images/hexo/tools/arthas-cmd.png)
 
 **开启监听**
 
@@ -62,7 +62,7 @@ watch com.wdg.Executor onTime '{params,returnObj,throwExp}'  -n 50  -x 3
 
 [IDEA插件](https://plugins.jetbrains.com/plugin/13581-arthas-idea)
 
-![arthas-plugin2](..https://wudiguang.top/images/hexo/tools/arthas-plugin2.png)
+![arthas-plugin2](https://wudiguang.top/images/hexo/tools/arthas-plugin2.png)
 
 ## Arthas命令大全
 

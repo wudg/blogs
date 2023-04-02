@@ -13,7 +13,7 @@ top_img: https://wudiguang.top/images/hexo/tools/cover-jdk.jpeg
 
 [封面图]
 
-![封面图](..https://wudiguang.top/images/hexo/tools/cover-jdk.jpeg)
+![封面图](https://wudiguang.top/images/hexo/tools/cover-jdk.jpeg)
 
 ## 下载和安装 JDK
 

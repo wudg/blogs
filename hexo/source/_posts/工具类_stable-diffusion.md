@@ -13,7 +13,7 @@ top_img: https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg
 
 [封面图]
 
-![封面图](..https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg)
+![封面图](https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg)
 
 ## 概述
 
