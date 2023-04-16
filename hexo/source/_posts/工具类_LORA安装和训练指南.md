@@ -11,6 +11,10 @@ cover: /pic/cover-lora.jpg
 top_img: /pic/cover-lora.jpg
 ---
 
+[封面图]
+
+![封面图](../pic/cover-lora.jpg)
+
 ## 下载安装AUTOMATIC1111
 
 1. 下载 Homebrew：/bin/bash -c "$(curl -fsSL <https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh>)"
