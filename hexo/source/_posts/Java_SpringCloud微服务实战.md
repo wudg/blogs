@@ -1,14 +1,15 @@
 ---
 title: 【Java】SpringCloud实战详解--翟永超
-date: 2023-03-17 10:46:00
-tags: 
+tags:
   - SpringCloud
-categories: 
+categories:
   - java
-keyword: "Java,SpringCloud"
-description: "SpringCloud实战详解"
-cover: https://wudiguang.top/images/hexo/books/cover-book004.png
-top_img: https://wudiguang.top/images/hexo/books/cover-book004.png
+keyword: 'Java,SpringCloud'
+description: SpringCloud实战详解
+cover: 'https://wudiguang.top/images/hexo/books/cover-book004.png'
+top_img: 'https://wudiguang.top/images/hexo/books/cover-book004.png'
+abbrlink: 39bfa02f
+date: 2023-03-17 10:46:00
 ---
 
 [封面图]

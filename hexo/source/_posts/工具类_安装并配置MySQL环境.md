@@ -1,14 +1,15 @@
 ---
 title: 【工具类】安装并配置MySQL环境
-date: 2023-04-01 11:23:00
-tags: 
+tags:
   - mysql8
-categories: 
+categories:
   - 好用工具类
-keyword: "【工具类】安装并配置MySQL环境"
-description: "【工具类】安装并配置MySQL环境"
-cover: https://wudiguang.top/images/hexo/tools/cover-mysql.jpeg
-top_img: https://wudiguang.top/images/hexo/tools/cover-mysql.jpeg
+keyword: 【工具类】安装并配置MySQL环境
+description: 【工具类】安装并配置MySQL环境
+cover: 'https://wudiguang.top/images/hexo/tools/cover-mysql.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/tools/cover-mysql.jpeg'
+abbrlink: bec10db6
+date: 2023-04-01 11:23:00
 ---
 
 [封面图]

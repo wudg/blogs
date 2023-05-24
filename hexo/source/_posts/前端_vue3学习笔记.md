@@ -1,15 +1,16 @@
 ---
 title: vue3学习笔记
-date: 2023-02-24 22:53:00
-tags: 
+tags:
   - 技术
   - 前端
-categories: 
+categories:
   - 前端
-keyword: "好好学习技术"
-description: "vue3学习笔记"
-cover: https://wudiguang.top/images/hexo/vue/cover-vue.jpeg
-top_img: https://wudiguang.top/images/hexo/vue/cover-vue.jpeg
+keyword: 好好学习技术
+description: vue3学习笔记
+cover: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
+abbrlink: 90ab2ea3
+date: 2023-02-24 22:53:00
 ---
 
 [vue3教程](https://cn.vuejs.org/guide/introduction.html)

@@ -1,14 +1,15 @@
 ---
 title: 【工具类】LORA安装和训练指南｜高质量模特养成｜教你打造自己专属的迷人模特
-date: 2023-03-25 15:13:00
-tags: 
+tags:
   - lora
-categories: 
+categories:
   - 好用工具类
-keyword: "【工具类】LORA安装和训练指南｜高质量模特养成｜教你打造自己专属的迷人模特"
-description: "【工具类】LORA安装和训练指南｜高质量模特养成｜教你打造自己专属的迷人模特"
-cover: https://wudiguang.top/images/hexo/cover-lora.jpg
-top_img: https://wudiguang.top/images/hexo/cover-lora.jpg
+keyword: 【工具类】LORA安装和训练指南｜高质量模特养成｜教你打造自己专属的迷人模特
+description: 【工具类】LORA安装和训练指南｜高质量模特养成｜教你打造自己专属的迷人模特
+cover: 'https://wudiguang.top/images/hexo/cover-lora.jpg'
+top_img: 'https://wudiguang.top/images/hexo/cover-lora.jpg'
+abbrlink: 464ac445
+date: 2023-03-25 15:13:00
 ---
 
 [封面图]

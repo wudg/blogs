@@ -1,14 +1,15 @@
 ---
 title: 【工具类】stable diffusion体验
-date: 2023-03-27 12:23:00
-tags: 
+tags:
   - stable-diffusion
-categories: 
+categories:
   - 好用工具类
-keyword: "stable-diffusion"
-description: "【工具类】stable diffusion体验"
-cover: https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg
-top_img: https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg
+keyword: stable-diffusion
+description: 【工具类】stable diffusion体验
+cover: 'https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg'
+abbrlink: 514fc98b
+date: 2023-03-27 12:23:00
 ---
 
 [封面图]

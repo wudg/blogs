@@ -1,14 +1,15 @@
 ---
 title: 【工具类】macbook之rss环境搭建
-date: 2023-02-22 20:23:00
-tags: 
+tags:
   - rss
-categories: 
+categories:
   - 好用工具类
-keyword: "rss"
-description: "Mac上配置RSS阅读器，并订阅感兴趣的RSS源"
-cover: https://wudiguang.top/images/hexo/rss_view.png
-top_img: https://wudiguang.top/images/hexo/rss_view.png
+keyword: rss
+description: Mac上配置RSS阅读器，并订阅感兴趣的RSS源
+cover: 'https://wudiguang.top/images/hexo/rss_view.png'
+top_img: 'https://wudiguang.top/images/hexo/rss_view.png'
+abbrlink: e8a66e71
+date: 2023-02-22 20:23:00
 ---
 
 

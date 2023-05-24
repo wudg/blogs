@@ -1,15 +1,16 @@
 ---
 title: vuex学习笔记
-date: 2023-02-25 10:33:00
-tags: 
+tags:
   - 技术
   - 前端
-categories: 
+categories:
   - 前端
-keyword: "好好学习技术"
-description: "vuex学习笔记"
-cover: https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg
-top_img: https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg
+keyword: 好好学习技术
+description: vuex学习笔记
+cover: 'https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg'
+abbrlink: caef00ab
+date: 2023-02-25 10:33:00
 ---
 
 [封面图]

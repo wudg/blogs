@@ -1,14 +1,15 @@
 ---
 title: 【工具类】使用xxl-job代替了云函数来完成自动签到
-date: 2023-03-22 16:40:00
-tags: 
+tags:
   - 网易云
-categories: 
+categories:
   - Github
-keyword: "【工具类】使用xxl-job代替了云函数来完成自动签到"
-description: "【工具类】使用xxl-job代替了云函数来完成自动签到"
-cover: https://wudiguang.top/images/hexo/cover-xxljob.png
-top_img: https://wudiguang.top/images/hexo/cover-xxljob.png
+keyword: 【工具类】使用xxl-job代替了云函数来完成自动签到
+description: 【工具类】使用xxl-job代替了云函数来完成自动签到
+cover: 'https://wudiguang.top/images/hexo/cover-xxljob.png'
+top_img: 'https://wudiguang.top/images/hexo/cover-xxljob.png'
+abbrlink: bfbd175c
+date: 2023-03-22 16:40:00
 ---
 
 [封面图]

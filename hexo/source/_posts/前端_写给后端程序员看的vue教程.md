@@ -1,15 +1,16 @@
 ---
 title: 写给后端程序员看的vue
-date: 2023-02-24 22:53:00
-tags: 
+tags:
   - 技术
   - 前端
-categories: 
+categories:
   - 前端
-keyword: "写给后端程序员看的vue"
-description: "写给后端程序员看的vue"
-cover: https://wudiguang.top/images/hexo/vue/cover-vue.jpeg
-top_img: https://wudiguang.top/images/hexo/vue/cover-vue.jpeg
+keyword: 写给后端程序员看的vue
+description: 写给后端程序员看的vue
+cover: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
+abbrlink: d8770c1d
+date: 2023-02-24 22:53:00
 ---
 
 ## vue

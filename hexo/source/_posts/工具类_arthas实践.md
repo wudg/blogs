@@ -1,14 +1,15 @@
 ---
 title: 【工具类】arthas实践
-date: 2023-03-23 11:23:00
-tags: 
+tags:
   - arthas
-categories: 
+categories:
   - 好用工具类
-keyword: "arthas"
-description: "【工具类】arthas实践"
-cover: https://wudiguang.top/images/hexo/tools/cover-arthas.jpg
-top_img: https://wudiguang.top/images/hexo/tools/cover-arthas.jpg
+keyword: arthas
+description: 【工具类】arthas实践
+cover: 'https://wudiguang.top/images/hexo/tools/cover-arthas.jpg'
+top_img: 'https://wudiguang.top/images/hexo/tools/cover-arthas.jpg'
+abbrlink: dbaafcf9
+date: 2023-03-23 11:23:00
 ---
 
 [封面图]

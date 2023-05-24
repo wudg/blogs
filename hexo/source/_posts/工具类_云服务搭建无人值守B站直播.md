@@ -1,15 +1,15 @@
 ---
 title: 【工具类】使用 kplayer 搭建无人值守直播，以 rtmp 方式推流到B站
-
-date: 2023-04-29 19:45:00
-tags: 
+tags:
   - 无人直播
-categories: 
+categories:
   - 工具
-keyword: "【工具类】云服务搭建无人值守B站直播"
-description: "【工具类】云服务搭建无人值守B站直播"
+keyword: 【工具类】云服务搭建无人值守B站直播
+description: 【工具类】云服务搭建无人值守B站直播
 cover: /pic/post/cover_live.png
 top_img: /pic/post/cover_live.png
+abbrlink: feca073e
+date: 2023-04-29 19:45:00
 ---
 
 [封面图]
