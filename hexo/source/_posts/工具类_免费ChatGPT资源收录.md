@@ -57,3 +57,7 @@ date: 2023-05-25 10:35:00
 | 27 | https://dev.yqcloud.top/ | 😄 | -- |
 | 28 | https://a6.shkj321.com/ | 😄 | -- |
 | 29 | https://open-gpt.app/ | 😄 | -- |
+
+
+如果你也对ChatGPT感兴趣，欢迎大家扫码进群
+![微信群](../pic/post/wechat-chatgpt.jpg)
