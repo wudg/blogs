@@ -59,5 +59,5 @@ date: 2023-05-25 10:35:00
 | 29 | https://open-gpt.app/ | 😄 | -- |
 
 
-如果你也对ChatGPT感兴趣，欢迎大家扫码进群
+如果你也对ChatGPT感兴趣，欢迎大家扫码进群，也可以添加我的个人微信：Y1490727316
 ![微信群](../pic/post/wechat-chatgpt.jpg)
