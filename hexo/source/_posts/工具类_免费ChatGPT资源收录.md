@@ -6,9 +6,8 @@ categories:
   - 好用工具类
 keyword: chatgpt
 description: 【工具类】ChatGPT资源收录
-cover: /pic/post/cover-chatgpt.jpg
-top_img: /pic/post/cover-chatgpt.jpg
-abbrlink: 2817151a
+cover: '/pic/post/cover-chatgpt.jpg'
+top_img: '/pic/post/cover-chatgpt.jpg'
 date: 2023-05-25 10:35:00
 ---
 
