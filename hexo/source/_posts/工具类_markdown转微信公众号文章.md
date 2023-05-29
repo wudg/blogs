@@ -6,8 +6,9 @@ categories:
   - 好用工具类
 keyword: markdown转公众号
 description: 【工具类】markdown转微信公众号文章
-cover: '/pic/post/wechat-official.jpg'
-top_img: '/pic/post/wechat-official.jpg'
+cover: /pic/post/wechat-official.jpg
+top_img: /pic/post/wechat-official.jpg
+abbrlink: a1ff703e
 date: 2023-05-25 15:59:00
 ---
 
