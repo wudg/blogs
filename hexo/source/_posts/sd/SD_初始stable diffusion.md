@@ -33,16 +33,16 @@ date: 2023-03-27 12:23:00
 [在线体验](https://stablediffusionweb.com/#demo)
 
 【A sunset over a mountain range, vector image】
-![SD](../../pic/sd/sd-20230526143854.png)
+![SD](../https://wudiguang.top/images/hexo/sd/sd-20230526143854.png)
 
 【A fantasy landscape, trending on artstation】
-![SD](../../pic/sd/sd-20230526145807.png)
+![SD](../https://wudiguang.top/images/hexo/sd/sd-20230526145807.png)
 
 【in the morning light,Overlooking TOKYO city by greg rutkowski and thomas kinkade,Trending on artstationmakoto shinkai style】
-![SD](../../pic/sd/sd-20230526152632.png)
+![SD](../https://wudiguang.top/images/hexo/sd/sd-20230526152632.png)
 
 【A beautiful painting of a singular lighthouse, shining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade, Trending on artstation.】
-![SD](../../pic/sd/sd-20230526152632.png)
+![SD](../https://wudiguang.top/images/hexo/sd/sd-20230526152632.png)
 
 ## Stable Diffusion名词解释
 

@@ -6,15 +6,15 @@ categories:
   - 工具
 keyword: 【工具类】云服务搭建无人值守B站直播
 description: 【工具类】云服务搭建无人值守B站直播
-cover: /pic/post/cover_live.png
-top_img: /pic/post/cover_live.png
+cover: https://wudiguang.top/images/hexo/post/cover_live.png
+top_img: https://wudiguang.top/images/hexo/post/cover_live.png
 abbrlink: feca073e
 date: 2023-04-29 19:45:00
 ---
 
 [封面图]
 
-![封面图](../pic/post/cover_live.png)
+![封面图](https://wudiguang.top/images/hexo/post/cover_live.png)
 
 使用 kplayer 搭建无人值守直播，以 rtmp 方式推流到 bilibili 网站
 
@@ -36,7 +36,7 @@ kplayer 是一款基于 Golang 的媒体服务器，支持 RTMP 协议。在本�
 
 此时，页面中即可看到`服务器地址`和`串流密钥`，复制`串流地址`字符串，第二步要用。
 
-![kplayer](../pic/post/live_bilibili.png)
+![kplayer](https://wudiguang.top/images/hexo/post/live_bilibili.png)
 
 ### 安装配置Kplayer
 
@@ -86,4 +86,4 @@ cp config.json.example config.yaml
 ```
 
 
-![kplayer](../pic/post/liver_kplayer.png)
+![kplayer](https://wudiguang.top/images/hexo/post/liver_kplayer.png)
