@@ -160,6 +160,41 @@ date: 2023-05-25 10:35:00
     <td></td> 
     <td><a href="http://www.chatpet.top/" target="_blank">🔗 </a> </td> 
   </tr>
+  <tr>
+    <td>17.</td>
+    <td><a href="https://freegpt.one/" target="_blank"> freegpt.one </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://freegpt.one/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>18.</td>
+    <td><a href="https://free.anzz.top/" target="_blank"> free.anzz.top </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://free.anzz.top/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>19.</td>
+    <td><a href="https://m7mme.aitianhu.icu/" target="_blank"> m7mme.aitianhu.icu </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://m7mme.aitianhu.icu/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td><a href="https://chathub.zhulei.xyz/" target="_blank"> chathub.zhulei.xyz </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://chathub.zhulei.xyz/" target="_blank">🔗 </a> </td> 
+  </tr>
+  <tr>
+    <td>20.</td>
+    <td><a href="https://nbchat.github.io/ai" target="_blank"> nbchat.github.io </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://nbchat.github.io/ai" target="_blank">🔗 </a> </td> 
+  </tr>
 
 </table>
 </details>
