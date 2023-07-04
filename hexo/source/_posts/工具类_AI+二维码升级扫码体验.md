@@ -131,6 +131,13 @@ Stable Diffusion创建艺术二维码,这些二维码是用经过自定义训练
 ![4](https://wudiguang.top/images/hexo/post/ai-qrcode-demo11.png)
 ![4](https://wudiguang.top/images/hexo/post/ai-qrcode-demo12.png)
 
+## 浮世
+
+```
+【prompt】：((masterpiece)), ((high detail)),((ultra-detailed)),((delicate face)),A wave, a mountain, a sun rising over the horizon, complex clouds, 1 girl,white hair,<lora:fuyuestylenew-000010:1>
+【negative prompt】：ugly, disfigured, low quality, blurry, nsfw
+```
+
 ## 题外话
 
 欢迎大家加入我的纯技术摸鱼群，另外如果对ChatGPT感兴趣，也可以加入我的ChatGPT讨论群，里面会定期分享免费ChatGPT资源。如果群二维码过期了，也可以添加下面我的个人微信。
