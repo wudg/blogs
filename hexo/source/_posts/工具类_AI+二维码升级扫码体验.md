@@ -10,7 +10,7 @@ description: 【工具类】使用AI+二维码升级扫码体验
 cover: https://wudiguang.top/images/hexo/post/ai-qrcode-demo07.png
 top_img: https://wudiguang.top/images/hexo/post/ai-qrcode-demo07.png
 abbrlink: 275dec8c
-date: 2023-07-16 19:35:00
+date: 2023-06-16 19:35:00
 ---
 
 [封面图]
