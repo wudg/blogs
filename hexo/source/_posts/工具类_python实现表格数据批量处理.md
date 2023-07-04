@@ -30,11 +30,17 @@ pyinstaller --onefile your_script.py
 # -*- coding: utf-8 -*-
 import openpyxl
 from openpyxl import Workbook
+import time
 
 def main():
     try:
         print("=================银行流水自动拆分程序V1.0【吴第广】=================")
         print("=================开始=================")
+        # 记录程序开始时间
+        start_time = time.time()
+        # 格式化时间
+        formatted_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(start_time))
+        print(f"程序开始执行时间：{formatted_time}")
         # 打开 Excel 文件
         try:
             workbook_user = openpyxl.load_workbook('账号.xlsx')
@@ -56,6 +62,8 @@ def main():
             bank_column_user = row[15]  # 第十六列数据
             user_card = card_column_user.replace("\t", "").replace(" ", "")
             exist_user_count.add(user_card)
+            if bank_column_user is None:
+                print("账号：" + name_column_user + "的开户行信息为空，请保证数据完整性")
             user_data_dict[user_card] = name_column_user + "-" + bank_column_user
 
         print("账户表中存在不同的卡号数量为：", len(exist_user_count))
@@ -121,10 +129,16 @@ def main():
         # 关闭 Excel 文件
         workbook_user.close()
         workbook_detail.close()
+        # 记录程序结束时间
+        end_time = time.time()
+        # 计算执行时间
+        execution_time = end_time - start_time
+        print(f"程序执行时间：{execution_time}秒")
         print("=================完成=================")
         input("Press Enter to exit") 
     except Exception as e:
         # 异常处理逻辑
+        # traceback.print_exc()
         print(f"An error occurred: {e}")
         input("Press Enter to exit") 
 
