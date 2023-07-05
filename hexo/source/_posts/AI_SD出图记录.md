@@ -250,3 +250,202 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 1379218784, Model: GhostMix-V2.0-fp
 ![17](https://wudiguang.top/images/hexo/post/sd017.png)
 
 ---
+
+## xxmix9realistic
+
+【提示词18】
+
+```
+A girl sitting on a giant ice cream, which is adorned with vibrant colors, delightful frosting, and rainbow sprinkles. She holds an oversized waffle cone,shimmering candies. Floating around her are some small balloons, each tied to a petite candy. The scene is filled with sweetness and joy, showcasing the girl's happiness and the enchanting fusion of her imagination and a fantastical world,fantasy, high contrast, ink strokes, explosions, over exposure, purple and red tone impression , abstract, ((watercolor painting by John Berkey and Jeremy Mann )) brush strokes, negative space,
+Negative prompt: easynegative,ng_deepnegative_v1_75t,badhandv4,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 25, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3278957223, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 11, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 10, Mimic scale: 7, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.4, Threshold percentile: 100, Dynamic thresholding enabled: True
+```
+
+【出图18】
+![18](../pic/post/sd018.png)
+
+---
+
+【提示词19】
+
+```
+1boy,
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 4025420449, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 6, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 15, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.3
+```
+
+【出图19】
+![19](../pic/post/sd019.png)
+
+---
+
+【提示词20】
+
+```
+photo of beautiful (n4t3mm:0.99), a woman as a movie star, turtleneck sweater, black jacket, (trousers), movie premiere gala, dark moody ambience (masterpiece:1.2) (photorealistic:1.2) (bokeh) (best quality) (detailed skin:1.2) (intricate details) (nighttime) (8k) (HDR) (cinematic lighting) (sharp focus), (looking at the camera:1.1), ((closeup portrait:1.2)), (earrings), colorful outfit
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3402257839, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 6, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 15, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.35
+```
+
+【出图20】
+![20](../pic/post/sd020.png)
+
+---
+
+【提示词21】
+
+```
+a 20 yo woman,long hair,dark theme, soothing tones, muted colors, high contrast, (natural skin texture, hyperrealism, soft light, sharp),red background,simple background, <lora:film:0.2>
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3845091088, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 5, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 15, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.35
+```
+
+【出图21】
+![21](../pic/post/sd021.png)
+
+---
+
+【提示词22】
+
+```
+a 30 yo woman,(hi-top fade:1.3),long hair,dark theme, soothing tones, muted colors, high contrast, (natural skin texture, hyperrealism, soft light, sharp),
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 2216505348, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 10, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 15, Mimic scale: 7, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.35, Threshold percentile: 100, Dynamic thresholding enabled: True
+```
+
+【出图22】
+![22](../pic/post/sd022.png)
+
+---
+
+【提示词23】
+
+```
+blonde, Curly hair,(hi-top fade:1.3), dark theme, soothing tones, muted colors, high contrast, (natural skin texture, hyperrealism, soft light, sharp),exposure blend, medium shot, bokeh, (hdr:1.4), high contrast, (cinematic, teal and orange:0.85), (muted colors, dim colors, soothing tones:1.3), low saturation, (hyperdetailed:1.2), (noir:0.4)
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 1330745489, Model: XXMix_biracial_3.4fp16, Sampler: DPM++ SDE Karras, CFG scale: 8, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 15, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.35
+```
+
+【出图23】
+![23](../pic/post/sd023.png)
+
+---
+
+【提示词24】
+
+```
+a 20 yo woman,long hair,dark theme, soothing tones, muted colors, high contrast, (natural skin texture, hyperrealism, soft light, sharp),red background,simple background, <lora:film:0.3>
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3263461128, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 5, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 15, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.4
+```
+
+【出图24】
+![24](../pic/post/sd024.png)
+
+---
+
+【提示词25】
+
+```
+a 30 yo man,(hi-top fade:1.3),long hair,dark theme, soothing tones, muted colors, high contrast, (natural skin texture, hyperrealism, soft light, sharp),cowboy shot,
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 4097189882, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 12, Clip skip: 2, Model hash: 18ed2b6c48, Mimic scale: 7, Threshold percentile: 100, Dynamic thresholding enabled: True
+```
+
+【出图25】
+![25](../pic/post/sd025.png)
+
+---
+
+【提示词26】
+
+```
+A photo ((portrait)) of a young, nerdy woman standing in a back alley, looking at the viewer. short hair, slender, red lips, flirting with the camera.Wearing a tight sexy white suit, open front
+Negative prompt: easynegative,ng_deepnegative_v1_75t,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),
+Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 2726299251, Model: XXMix_biracial_3.4fp16, Version: v1.2.1, Sampler: DPM++ SDE Karras, CFG scale: 12, Clip skip: 2, Model hash: 18ed2b6c48, Hires steps: 15, Mimic scale: 7, Hires upscale: 2, Hires upscaler: 4x-UltraSharp, Denoising strength: 0.4, Threshold percentile: 100, Dynamic thresholding enabled: True
+```
+
+【出图26】
+![26](../pic/post/sd026.png)
+
+---
+
+## majicMIX realistic
+
+【提示词27】
+
+```
+blouse, light and shadow
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 512x683, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 8x_NMKD-Superscale_150000_G, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.14, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 8, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.12, ADetailer use inpaint width/height: True
+```
+
+【出图27】
+![27](../pic/post/sd027.png)
+
+---
+
+【提示词28】
+
+```
+close up, dramatic lighting
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 512x512, Seed: 3720662312, Model: majicmix_realv6_fp16, Sampler: Euler, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 8x_NMKD-Superscale_150000_G, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.14, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.15, ADetailer use inpaint width/height: True
+```
+
+【出图28】
+![28](../pic/post/sd028.png)
+
+---
+
+【提示词29】
+
+```
+best quality, masterpiece, (photorealistic:1.4), 1boy, silver hair, beard, big muscle, waist up, dramatic lighting
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 500x800, Seed: 2448422190, Model: majicmix_realv609, Sampler: Euler, CFG scale: 7, Clip skip: 2, Model hash: bbbb7f92f0, Hires steps: 15, Hires upscale: 2, ADetailer conf: 70, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.12, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 0, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.12, ADetailer use inpaint width/height: True
+```
+
+【出图29】
+![29](../pic/post/sd029.png)
+
+---
+
+【提示词30】
+
+```
+majic
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 512x768, Seed: 140050360, Model: majicmix_realv609, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: bbbb7f92f0, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.25, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.15, ADetailer use inpaint width/height: True
+```
+
+【出图30】
+![30](../pic/post/sd030.png)
+
+---
+
+【提示词31】
+
+```
+majic
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 512x768, Seed: 140050360, Model: majicmix_realv609, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: bbbb7f92f0, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.25, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.15, ADetailer use inpaint width/height: True
+```
+
+【出图31】
+![31](../pic/post/sd031.png)
+
+---
+
+【提示词32】
+
+```
+majic
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 512x768, Seed: 140050360, Model: majicmix_realv609, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: bbbb7f92f0, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.25, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.15, ADetailer use inpaint width/height: True
+```
+
+【出图32】
+![32](../pic/post/sd032.png)
+
+---
