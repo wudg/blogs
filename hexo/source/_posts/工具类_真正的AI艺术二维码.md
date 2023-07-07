@@ -9,6 +9,7 @@ keyword: chatgpt
 description: 【工具类】使用AI+二维码升级扫码体验
 cover: /pic/post/art-qr00.png
 top_img: /pic/post/art-qr00.png
+abbrlink: 275dec8c
 date: 2023-07-07 19:51:00
 ---
 
