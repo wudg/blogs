@@ -7,15 +7,15 @@ categories:
   - 好用工具类
 keyword: chatgpt
 description: 【工具类】使用AI+二维码升级扫码体验
-cover: /pic/post/art-qr00.png
-top_img: /pic/post/art-qr00.png
+cover: https://wudiguang.top/images/hexo/post/art-qr00.png
+top_img: https://wudiguang.top/images/hexo/post/art-qr00.png
 abbrlink: 275dec8c
 date: 2023-07-07 19:51:00
 ---
 
 [封面图]
 
-![封面图](../pic/post/art-qr00.png)
+![封面图](https://wudiguang.top/images/hexo/post/art-qr00.png)
 
 ## 生成发散的二维码
 
@@ -23,7 +23,7 @@ date: 2023-07-07 19:51:00
 
 将生成好的二维码文件保存下来，用于后面的步骤
 
-![普通二维码](../pic/post/art-qr01.png)
+![普通二维码](https://wudiguang.top/images/hexo/post/art-qr01.png)
 
 ## 生成艺术二维码
 
@@ -73,18 +73,18 @@ Steps: 25, ENSD: 31337, Size: 768x768, Seed: 1293666383, Model: CF5_Counterfeit-
 
 **第一个ControlNet Unit**
 
-![配置1](../pic/post/art-qr02.png)
+![配置1](https://wudiguang.top/images/hexo/post/art-qr02.png)
 
 **第二个ControlNet Unit**
 
-![配置2](../pic/post/art-qr03.png)
+![配置2](https://wudiguang.top/images/hexo/post/art-qr03.png)
 
 ### 生成目标艺术二维码
 
 
 `tips：` 这里要注意，生成艺术二维码是有一定的失败率的，要想生成自己期望的艺术二维码，需要多尝试几次。
 
-![艺术二维码](../pic/post/art-qr00.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr00.png)
 
 ## 一些例子
 
@@ -100,7 +100,7 @@ Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 2311942344, Model: CF5_Counterfeit
 
 **【出图1】**
 
-![艺术二维码](../pic/post/art-qr04.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr04.png)
 
 ---
 
@@ -116,7 +116,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 1712913696, Model: GhostMix-V2.0-fp
 
 **【出图2】**
 
-![艺术二维码](../pic/post/art-qr05.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr05.png)
 
 
 **【提示词3】**
@@ -129,7 +129,7 @@ Steps: 25, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3278957223, Model: XXMix_
 
 **【出图3】**
 
-![艺术二维码](../pic/post/art-qr06.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr06.png)
 
 ---
 
@@ -142,7 +142,7 @@ Steps: 25, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3278957223, Model: XXMix_
 
 **【出图4】**
 
-![艺术二维码](../pic/post/art-qr07.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr07.png)
 
 **【提示词5】**
 ```
@@ -153,7 +153,7 @@ Steps: 25, Size: 512x1024, Seed: 1224977198, Model: Meina V10 - baked VAE, Versi
 
 **【出图5】**
 
-![艺术二维码](../pic/post/art-qr08.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr08.png)
 
 **【提示词6】**
 ```
@@ -164,7 +164,7 @@ Steps: 40, Size: 512x1024, Seed: 1616786217, Model: Meina V10 - baked VAE, Versi
 
 **【出图6】**
 
-![艺术二维码](../pic/post/art-qr09.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr09.png)
 
 ## 个人微信二维码转艺术二维码
 
