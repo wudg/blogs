@@ -1,5 +1,5 @@
 ---
-title: 【工具类】使用AI+二维码升级扫码体验
+title: 【工具类】使用AI+二维码升级扫码体验(内含详细步骤)
 tags:
   - ai
   - 二维码
@@ -7,9 +7,9 @@ categories:
   - 好用工具类
 keyword: chatgpt
 description: 【工具类】使用AI+二维码升级扫码体验
-cover: https://wudiguang.top/images/hexo/post/art-qr00.png
-top_img: https://wudiguang.top/images/hexo/post/art-qr00.png
-abbrlink: 275dec8c
+cover: 'https://wudiguang.top/images/hexo/post/art-qr00.png'
+top_img: 'https://wudiguang.top/images/hexo/post/art-qr00.png'
+abbrlink: 9ac75607
 date: 2023-07-07 19:51:00
 ---
 
