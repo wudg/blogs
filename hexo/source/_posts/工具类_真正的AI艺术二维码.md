@@ -174,6 +174,6 @@ Steps: 40, Size: 512x1024, Seed: 1616786217, Model: Meina V10 - baked VAE, Versi
 4. 将第三步复制的内容拷贝到网址：`https://qrcode.antfu.me/`中，接下来按照最上面的流程来生成最佳效果的二维码
 5. 接下来按照上面的教程来即可
 
-
+![微信公众号](https://wudiguang.top/images/hexo/personal/wx_web.png)
 
 
