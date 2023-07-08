@@ -106,6 +106,8 @@ Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 2311942344, Model: CF5_Counterfeit
 
 ### 主模型：GhostMix
 
+模型地址：https://civitai.com/models/36520/ghostmix
+
 **【提示词2】**
 
 ```
@@ -166,6 +168,67 @@ Steps: 40, Size: 512x1024, Seed: 1616786217, Model: Meina V10 - baked VAE, Versi
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr09.png)
 
+### 主模型Dark Sushi Mix 大颗寿司Mix
+
+模型地址：https://civitai.com/models/24779/dark-sushi-mix-mix
+
+**【提示词7】**
+```
+(masterpiece, high quality, highres,illustration),blurry background,[(white background:1.2)::5],cowboy shot,
+spring \(season\),(no light:1.1),(temptation:1.2),elegance,
+(1loli:1.1),(very long hair:1.1),(blush:0.7),floating hair,ahoge,deep sky,star \(sky\),
+(summer (Floral:1.2) dress:1.1),outline,(see-through:0.85),shining,low twintails,
+(polychromatic peony:1.15),Movie poster,(colorful:1.1),ornament,petals,(pantyhose:1.1),
+ribbon,
+Negative prompt: sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (bad and mutated hands:1.3), (worst quality:2.0), (low quality:2.0), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,
+Steps: 20, Size: 576x832, Seed: 969039108, Model: MAADBD2fp16, (blurry: 2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, Version: v1.3.2, Sampler: DPM++ 2M Karras, CFG scale: 8, Clip skip: 2, Model hash: cca17b08da, Hires steps: 20, (low quality: 2.0), (long fingers: 1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,", Hires upscale: 2, (worst quality: 2.0), Hires upscaler: Latent, (deformed fingers: 1.2), Denoising strength: 0.5, (interlocked fingers: 1.2), Ugly Fingers, (bad and mutated hands: 1.3), Wildcard negative prompt: "sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (extra digit and hands and fingers and legs and arms: 1.4), ((2girl))
+```
+
+**【出图7】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr10.png)
+
+---
+
+**【提示词8】**
+```
+masterpiece, best quality, 1girl, full body,white hair,long hair,purple eyes, slim body,slim legs,playing violin,white dress,night,moon,shootig star,cloud,lakeshore,
+Negative prompt: sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (bad and mutated hands:1.3), (worst quality:2.0), (low quality:2.0), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,
+Steps: 20, Size: 576x832, Seed: 1444986668, Model: MAADBD2fp16, (blurry: 2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, Version: v1.3.2, Sampler: DPM++ 2M Karras, CFG scale: 8, Clip skip: 2, Model hash: cca17b08da, Hires steps: 20, (low quality: 2.0), (long fingers: 1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,", Hires upscale: 2, (worst quality: 2.0), Hires upscaler: Latent, (deformed fingers: 1.2), Denoising strength: 0.5, (interlocked fingers: 1.2), Ugly Fingers, (bad and mutated hands: 1.3), Wildcard negative prompt: "sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (extra digit and hands and fingers and legs and arms: 1.4), ((2girl))
+```
+
+**【出图8】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr11.png)
+
+---
+
+**【提示词9】**
+```
+masterpiece, best quality, 1girl, full body,white hair,long hair,purple eyes, slim body,slim legs,playing violin,white dress,night,moon,shootig star,cloud,lakeshore,
+Negative prompt: sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (bad and mutated hands:1.3), (worst quality:2.0), (low quality:2.0), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,
+Steps: 20, Size: 576x832, Seed: 1444986668, Model: MAADBD2fp16, (blurry: 2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, Version: v1.3.2, Sampler: DPM++ 2M Karras, CFG scale: 8, Clip skip: 2, Model hash: cca17b08da, Hires steps: 20, (low quality: 2.0), (long fingers: 1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,", Hires upscale: 2, (worst quality: 2.0), Hires upscaler: Latent, (deformed fingers: 1.2), Denoising strength: 0.5, (interlocked fingers: 1.2), Ugly Fingers, (bad and mutated hands: 1.3), Wildcard negative prompt: "sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (extra digit and hands and fingers and legs and arms: 1.4), ((2girl))
+```
+
+**【出图9】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr12.png)
+
+---
+
+**【提示词10】**
+```
+masterpiece, best quality,extremely detailed CG unity 8k wallpaper, best quality, extremely detailed, detailed, art of light novel cover,highres,anime screencap, light novel illustration,cel shading,
+(outdoors, nature,sea,blue water,blue sky with red_clouds:1.25),stars,blood moon,(fire world),(burning world),(red sea:1.5),flame flowers, grass,(detailed  transparent ruby:1.4),(colorful refraction),(floating flames:1.4),(Floating  fire:1.5) on the water,(Flowing magma:1.4),A lot of flames,
+transparent and neon highlights,(legendary red crystal elf), anthropomorphic, (red crystal elements:1.8), (complex details) ,(1girl:1.3),(solo),(full body),(Standing on the Crystal Fire_lotus), (body  surrounded by fire),(flames attached to feet),(beautiful and delicate eyes), glowing red eyes,exquisite face, cowboy shot, (messy floating long blonde hair), messy hair, head decoration, small breasts,(lovely), focus, (fantasy wind), (Colorful and see-through red chiffon dress:1.3), (complex details),Flame attached to clothes, 14 years old, clamp-style, clear lines, magic effects, high resolution ,85mm, f1.8, photo realistic,
+Negative prompt: sketch, duplicate, ugly, huge eyes, text, logo, monochrome, worst face, (bad and mutated hands:1.3), (worst quality:2.0), (low quality:2.0), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs
+Steps: 20, Size: 576x832, Seed: 665810449, Model: MAADBD2fp16, (blurry: 2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, Version: v1.3.2, Sampler: DPM++ 2M Karras, CFG scale: 8, Clip skip: 2, Model hash: cca17b08da, Hires steps: 20, (low quality: 2.0), (long fingers: 1.2),(bad-artist-anime), bad-artist, bad hand, extra legs", Hires upscale: 2, (worst quality: 2.0), Hires upscaler: Latent, (deformed fingers: 1.2), Denoising strength: 0.5, (interlocked fingers: 1.2), Ugly Fingers, (bad and mutated hands: 1.3), Wildcard negative prompt: "sketch, duplicate, ugly, huge eyes, text, logo, monochrome, worst face, (extra digit and hands and fingers and legs and arms: 1.4), ((2girl))
+```
+
+**【出图10】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr13.png)
+
 ## 个人微信二维码转艺术二维码
 
 1. 微信中导出个人二维码
@@ -174,6 +237,14 @@ Steps: 40, Size: 512x1024, Seed: 1616786217, Model: Meina V10 - baked VAE, Versi
 4. 将第三步复制的内容拷贝到网址：`https://qrcode.antfu.me/`中，接下来按照最上面的流程来生成最佳效果的二维码
 5. 接下来按照上面的教程来即可
 
+## 欢迎加入我
+
+### 微信公众号
+
 ![微信公众号](https://wudiguang.top/images/hexo/personal/wx_web.png)
+
+### 微信群
+
+![chatgpt-group](https://wudiguang.top/images/hexo/personal/chatgpt-group.jpg)
 
 
