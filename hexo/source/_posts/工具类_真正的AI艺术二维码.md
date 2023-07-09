@@ -104,6 +104,20 @@ Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 2311942344, Model: CF5_Counterfeit
 
 ---
 
+**【提示词11】**
+
+```
+(masterpiece, best quality), (from above:1.4), 2girls walking along a beach together, multiple girls,sun light, long hair, footprints, beach, sand, black hair, ocean, day, shoes, walking, jacket, shore, grey skirt, black jacket, waves, pantyhose, pleated skirt, standing, shadow, smile, white skirt
+Negative prompt: EasyNegativeV2
+Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 976266318, Model: CF5_Counterfeit-V3.0_fix_fix_fix, Sampler: DPM++ 2M Karras, CFG scale: 10, Clip skip: 2, Model hash: db6cd0a62d, Hires upscale: 2, Hires upscaler: R-ESRGAN 4x+ Anime6B, Denoising strength: 0.5
+```
+
+**【出图11】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr14.png)
+
+---
+
 ### 主模型：GhostMix
 
 模型地址：https://civitai.com/models/36520/ghostmix
@@ -228,6 +242,34 @@ Steps: 20, Size: 576x832, Seed: 665810449, Model: MAADBD2fp16, (blurry: 2.0), ho
 **【出图10】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr13.png)
+
+### 主模型：majicMIX realistic 麦橘写实
+
+模型地址：https://civitai.com/models/43331/majicmix-realistic
+
+**【提示词11】**
+```
+blouse, light and shadow
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 512x683, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 8x_NMKD-Superscale_150000_G, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.14, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 8, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.12, ADetailer use inpaint width/height: True
+```
+
+**【出图11】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr15.png)
+
+---
+
+**【提示词12】**
+```
+best quality, masterpiece, (photorealistic:1.4), 1girl, light smile, shirt with collars, waist up, dramatic lighting, from below
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 512x768, Seed: 3698311310, Model: majicmix_realv609, Sampler: Euler, CFG scale: 7, Clip skip: 2, Model hash: bbbb7f92f0, Hires steps: 15, Hires upscale: 2, ADetailer conf: 48, Hires upscaler: 8x_NMKD-Superscale_150000_G, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.12, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.15, ADetailer use inpaint width/height: True
+```
+
+**【出图12】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr16.png)
 
 ## 个人微信二维码转艺术二维码
 
