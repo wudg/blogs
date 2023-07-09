@@ -259,7 +259,7 @@ Steps: 20, Size: 576x832, Seed: 969039108, Model: MAADBD2fp16, (blurry: 2.0), ho
 
 **【出图17】**
 
-![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr117.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr17.png)
 
 ### 主模型：majicMIX realistic 麦橘写实
 
