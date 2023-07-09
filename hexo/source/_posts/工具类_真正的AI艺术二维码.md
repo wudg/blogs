@@ -265,14 +265,14 @@ Steps: 20, Size: 576x832, Seed: 969039108, Model: MAADBD2fp16, (blurry: 2.0), ho
 
 模型地址：https://civitai.com/models/43331/majicmix-realistic
 
-**【提示词11】**
+**【提示词19】**
 ```
 blouse, light and shadow
 Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
 Steps: 30, Size: 512x683, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 8x_NMKD-Superscale_150000_G, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.14, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 8, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.12, ADetailer use inpaint width/height: True
 ```
 
-**【出图11】**
+**【出图19】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr15.png)
 
@@ -288,6 +288,21 @@ Steps: 30, Size: 512x768, Seed: 3698311310, Model: majicmix_realv609, Sampler: E
 **【出图12】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr16.png)
+
+### 主模型：ReV Animated
+
+模型地址：https://civitai.com/models/7371/rev-animated
+
+**【提示词13】**
+```
+((best quality)), ((masterpiece)), (detailed), woman with green hair, holding a sword, (Artgerm inspired:1.2), (pixiv contest winner:1.1), (octopus goddess:1.3), (Berserk art style:1.2), close-up portrait, goddess skull, (Senna from League of Legends:1.1), (Tatsumaki with green curly hair:1.2), card game illustration, thick brush, HD anime wallpaper, (Akali from League of Legends:1.1), 8k resolution
+Negative prompt: 3d, cartoon, anime, sketches, (worst quality, bad quality, child, cropped:1.4) ((monochrome)), ((grayscale)),  (bad-hands-5:1.0), (badhandv4:1.0), (easynegative:0.8),  (bad-artist-anime:0.8), (bad-artist:0.8), (bad_prompt:0.8), (bad-picture-chill-75v:0.8), (bad_prompt_version2:0.8),  (bad_quality:0.8)
+Steps: 30, ENSD: 31337, Size: 512x768, Seed: 2937362614, Model: rev_1.2.2, Sampler: DPM++ 2M Karras, CFG scale: 8.5, Clip skip: 2, Model hash: 66d6caba66, Hires steps: 36, Hires upscale: 2, Hires upscaler: 4x_foolhardy_Remacri, Denoising strength: 0.55
+```
+
+**【出图13】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr18.png)
 
 ## 个人微信二维码转艺术二维码
 
