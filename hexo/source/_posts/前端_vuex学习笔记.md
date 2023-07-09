@@ -17,7 +17,7 @@ date: 2023-02-25 10:33:00
 
 ![封面图](https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg)
 
-[在线学习](../https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg)
+[在线学习](https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg)
 
 ## 第一章 概述
 

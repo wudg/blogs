@@ -4,11 +4,11 @@ tags:
   - stable-diffusion
 categories:
   - 好用工具类
-keyword: stable-diffusion,教程
+keyword: 'stable-diffusion,教程'
 description: 【工具类】stable diffusion教程
 cover: 'https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg'
 top_img: 'https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg'
-abbrlink: 514fc98b
+abbrlink: '82066890'
 date: 2023-07-09 12:23:00
 ---
 
