@@ -20,10 +20,30 @@ date: 2023-07-09 12:23:00
 
 ## 安装教程
 
-### 基于启动器
+### 基于启动器（内部集成了必备插件）
 
+**下载资源**
+
+链接：https://pan.baidu.com/s/1bm9SdAD2VYzOXP0C1IINiA 
+提取码：1234
+
+**安装并运行**
+
+1. 解压`sd-webui-aki-v4.1.zip`
+2. 将`可选controlnet1.1\模型`文件夹下面的所有文件拷贝到`sd-webui-aki-v4.1\models\ControlNet`目录下
+3. 将`可选controlnet1.1\预处理器`文件夹下面的`download`文件夹拷贝到`sd-webui-aki-v4.1\extensions\sd-webui-controlnet\annotator`目录下
+4. 双击`启动器运行依赖-dotnet-6.0.11.exe`，安装即可，此时环境已配置完成
+5. 双击`sd-webui-aki-v4.1\A启动器.exe`运行服务，运行成功后，会自动跳转到浏览器中并打开`http://127.0.0.1:7860/?__theme=dark`网址
 
 ### SD本地部署
+
+Github残酷地址：https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+**安装步骤**
+
+![本地安装](https://wudiguang.top/images/hexo/post/sd-setting.png)
+
+安装完成后，在浏览器中访问：http://127.0.0.1:7860/?__theme=dark
 
 ## 文生图
 
@@ -100,6 +120,51 @@ VAE安装目录：stable-diffusion-webui\models\VAE
 * karras：去噪快
 * DDIM & PLMS：SD最早的采样器（过时）
 * DPM：比较建议使用DPM++SDE karras
+
+**面部修复**
+
+渲染人物图时记得勾上，提高SD对人体面部的细节捕捉
+
+**无缝贴图**
+
+生成纹理
+
+**高分辨率修复**
+
+把模糊的图片变清晰
+
+**宽度|高度**
+
+图片分辨率（像素）
+
+一般使用 512*512 和 768*768
+
+和显存大小相关
+
+**生成次数|每次数量**
+
+* 生成次数：一个一个生成x张图（显存低用这个）
+* 每次数量：同时生成x张图（显存高用这个）
+
+**CFG Scale**
+
+文字和图片的相关度
+
+* 数值高：tag和图片的相关度就高
+* 数值低：tag和图片的相关度就低
+
+建议4~9之间
+
+**随机种子**
+
+* 色子：重置种子为-1（出图完全随机）
+* 循环标志：复制上一张图的种子
+
+随机数差异种子：略
+
+### 模板预设
+
+### ControlNet
 
 
 ## 图生图
