@@ -243,6 +243,24 @@ Steps: 20, Size: 576x832, Seed: 665810449, Model: MAADBD2fp16, (blurry: 2.0), ho
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr13.png)
 
+---
+
+**【提示词17】**
+```
+(masterpiece, high quality, highres,illustration),blurry background,[(white background:1.2)::5],cowboy shot,
+spring \(season\),(no light:1.1),(temptation:1.2),elegance,
+(1loli:1.1),(very long hair:1.1),(blush:0.7),floating hair,ahoge,deep sky,star \(sky\),
+(summer (Floral:1.2) dress:1.1),outline,(see-through:0.85),shining,low twintails,
+(polychromatic peony:1.15),Movie poster,(colorful:1.1),ornament,petals,(pantyhose:1.1),
+ribbon,
+Negative prompt: sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (bad and mutated hands:1.3), (worst quality:2.0), (low quality:2.0), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,
+Steps: 20, Size: 576x832, Seed: 969039108, Model: MAADBD2fp16, (blurry: 2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, Version: v1.3.2, Sampler: DPM++ 2M Karras, CFG scale: 8, Clip skip: 2, Model hash: cca17b08da, Hires steps: 20, (low quality: 2.0), (long fingers: 1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,", Hires upscale: 2, (worst quality: 2.0), Hires upscaler: Latent, (deformed fingers: 1.2), Denoising strength: 0.5, (interlocked fingers: 1.2), Ugly Fingers, (bad and mutated hands: 1.3), Wildcard negative prompt: "sketch, duplicate, ugly, huge eyes, text, logo,  worst face, (extra digit and hands and fingers and legs and arms: 1.4), ((2girl))
+```
+
+**【出图17】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr117.png)
+
 ### 主模型：majicMIX realistic 麦橘写实
 
 模型地址：https://civitai.com/models/43331/majicmix-realistic
