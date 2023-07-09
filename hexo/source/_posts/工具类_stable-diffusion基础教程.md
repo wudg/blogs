@@ -173,3 +173,12 @@ VAE安装目录：stable-diffusion-webui\models\VAE
 ## 图生图
 
 
+## 欢迎加入我
+
+### 微信公众号
+
+![微信公众号](https://wudiguang.top/images/hexo/personal/wx_web.png)
+
+### 微信群
+
+![chatgpt-group](https://wudiguang.top/images/hexo/personal/chatgpt-group.jpg)
