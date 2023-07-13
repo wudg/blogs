@@ -9,10 +9,6 @@ keyword: chatgpt
 description: 【工具类】使用AI+二维码升级扫码体验
 cover: 'https://wudiguang.top/images/hexo/post/art-qr00.png'
 top_img: 'https://wudiguang.top/images/hexo/post/art-qr00.png'
-password: 5555
-abstract: 这是一篇加密博文，请输入密码后查看
-message: 这里需要密码才能访问。
-wrong_pass_message: '抱歉, 这个密码看着不太对, 请再试试.'
 abbrlink: 9ac75607
 date: 2023-07-07 19:51:00
 ---
