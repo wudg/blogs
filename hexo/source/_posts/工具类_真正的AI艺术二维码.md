@@ -23,7 +23,7 @@ date: 2023-07-07 19:51:00
 
 将生成好的二维码文件保存下来，用于后面的步骤
 
-![普通二维码](https://wudiguang.top/images/hexo/post/art-qr01.png)
+![普通二维码](c)
 
 ## 生成艺术二维码
 
