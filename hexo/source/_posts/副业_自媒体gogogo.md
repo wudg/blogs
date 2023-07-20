@@ -86,3 +86,4 @@ GitHub：https://github.com/wudg
 
 ### 软件工具
 
+1. https://github.com/alist-org/alist
