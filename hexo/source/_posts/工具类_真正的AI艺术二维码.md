@@ -23,7 +23,7 @@ date: 2023-07-07 19:51:00
 
 将生成好的二维码文件保存下来，用于后面的步骤
 
-![普通二维码](c)
+![普通二维码](https://wudiguang.top/images/hexo/post/art-qr01.png)
 
 ## 生成艺术二维码
 
@@ -395,6 +395,23 @@ Steps: 40, Size: 512x1024, Seed: 323750173, Model: MeinaUnreal V4.1 pruned, Vers
 **【出图18】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr23.png)
+
+### 主模型：majicmixReverie 【A028】
+
+模型地址：https://civitai.com/models/18798/meinaunreal
+
+**【提示词19】**
+主模型：MeinaUnreal 【A028】
+权重：1.7
+```
+( girl:1.4), (full body), (from side), (ultra wide shot), (white dress:1.3), (white long hair:1.3), (white ribbon:1.6), (white lace:1.6), BREAK, (dark background:1.3)
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark, monochrome
+Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 25, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 8x_NMKD-Superscale_150000_G, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.14, ADetailer CFG scale: 7.0, ADetaisler mask blur: 4, ADetailer dilate/erode: 8, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.12, ADetailer use inpaint width/height: True
+```
+
+**【出图19】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr24.png)
 
 ## 个人微信二维码转艺术二维码
 
