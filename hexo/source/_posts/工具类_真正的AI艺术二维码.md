@@ -396,9 +396,9 @@ Steps: 40, Size: 512x1024, Seed: 323750173, Model: MeinaUnreal V4.1 pruned, Vers
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr23.png)
 
-### 主模型：majicmixReverie 【A028】
+### 主模型：majicMIX reverie 麦橘梦幻 【A028】
 
-模型地址：https://civitai.com/models/18798/meinaunreal
+模型地址：https://civitai.com/models/65055/majicmix-reverie
 
 **【提示词19】**
 主模型：MeinaUnreal 【A028】
