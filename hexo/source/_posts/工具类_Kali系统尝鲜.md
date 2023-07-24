@@ -9,6 +9,7 @@ keyword: 【工具类】Kali系统尝鲜
 description: 【工具类】Kali系统尝鲜
 cover: 'https://wudiguang.top/images/hexo/tools/cover-chatgpt.jpeg'
 top_img: 'https://wudiguang.top/images/hexo/tools/cover-chatgpt.jpeg'
+abbrlink: 31e01ccd
 date: 2023-07-21 15:50:00
 ---
 
