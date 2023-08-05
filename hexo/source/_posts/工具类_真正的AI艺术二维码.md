@@ -118,10 +118,6 @@ Steps: 25, ENSD: 31337, Size: 768x768, Seed: 976266318, Model: CF5_Counterfeit-V
 
 ---
 
-### 主模型：GhostMix 【A012】
-
-模型地址：https://civitai.com/models/36520/ghostmix
-
 **【提示词2】**
 主模型：GhostMix 【A012】
 ```
@@ -184,10 +180,6 @@ Steps: 40, Size: 768x768, Seed: 1616786217, Model: Meina V10 - baked VAE, Versio
 **【出图6】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr09.png)
-
-### 主模型Dark Sushi Mix 大颗寿司Mix 【010】
-
-模型地址：https://civitai.com/models/24779/dark-sushi-mix-mix
 
 **【提示词7】**
 主模型Dark Sushi Mix 大颗寿司Mix 【010】
@@ -269,10 +261,6 @@ Steps: 20, Size: 576x832, Seed: 969039108, Model: MAADBD2fp16, (blurry: 2.0), ho
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr17.png)
 
-### 主模型：majicMIX realistic 麦橘写实 【013】
-
-模型地址：https://civitai.com/models/43331/majicmix-realistic
-
 **【提示词19】**
 主模型：majicMIX realistic 麦橘写实 【013】
 ```
@@ -298,10 +286,6 @@ Steps: 30, Size: 768x768, Seed: 3698311310, Model: majicmix_realv609, Sampler: E
 **【出图12】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr16.png)
-
-### 主模型：ReV Animated 【021】
-
-模型地址：https://civitai.com/models/7371/rev-animated
 
 **【提示词13】**
 主模型：ReV Animated 【021】
@@ -336,10 +320,6 @@ Steps: 28, ENSD: 31337, Size: 576x768, Seed: 3401667259, Model: revAnimated_v11,
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr19.png)
 
-### 主模型：Cheese Daddy's Landscapes mix 【A006】
-
-模型地址：https://civitai.com/models/5041/cheese-daddys-landscapes-mix
-
 **【提示词15】**
 主模型：Cheese Daddy's Landscapes mix 【A006】
 ```
@@ -347,10 +327,6 @@ masterpiece, best quality, high quality,extremely detailed CG unity 8k wallpaper
 Negative prompt: windows, canvas frame, cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)),((extra limbs)),((close up)),((b&w)), wierd colors, blurry, (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), Photoshop, video game, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, body out of frame, blurry, bad art, bad anatomy, 3d render, ((naked)), ((nude)), ((NSFW)), (((claws)))
 Steps: 20, Size: 512x768, Seed: 2849651487, Sampler: DPM++ 2M Karras, CFG scale: 6, Model hash: 7ed3c68f22
 ```
-
-### 主模型：Babes 【A003】
-
-模型地址：https://civitai.com/models/2220/babes
 
 **【提示词16】**
 主模型：Babes 【A003】
@@ -380,10 +356,6 @@ Steps: 20, ENSD: 31337, Size: 768x768, Seed: 1242511258, Model: Babes_2.0_Babes_
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr22.png)
 
-### 主模型：MeinaUnreal 【A016】
-
-模型地址：https://civitai.com/models/18798/meinaunreal
-
 **【提示词18】**
 主模型：MeinaUnreal 【A016】
 ```
@@ -396,12 +368,8 @@ Steps: 40, Size: 512x1024, Seed: 323750173, Model: MeinaUnreal V4.1 pruned, Vers
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr23.png)
 
-### 主模型：majicMIX reverie 麦橘梦幻 【A028】
-
-模型地址：https://civitai.com/models/65055/majicmix-reverie
-
 **【提示词19】**
-主模型：MeinaUnreal 【A028】
+主模型：MajicmixReverie【A028】
 权重：1.7
 ```
 (girl:1.4), (full body), (from side), (ultra wide shot), (white dress:1.3), (white long hair:1.3), (white ribbon:1.6), (white lace:1.6), BREAK, (dark background:1.3)
@@ -414,7 +382,7 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr24.png)
 
 **【提示词20】**
-主模型：MeinaUnreal 【A028】
+主模型：MajicmixReverie【A028】
 权重：1.7
 ```
 (((masterpiece))),(((bestquality))),((ultra-detailed)),(illustration),((anextremelydelicateandbeautiful)),dynamicangle,floating,(beautifuldetailedeyes),(detailedlight) (1girl), solo, floating_hair,glowingeyes,green hair,greeneyes, twintails, halterdress, <lora:atdanStyleLora_lk:0.6>, atdan, green background, <lora:animetarotV51:1>
@@ -428,7 +396,7 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 
 
 **【提示词21】**
-主模型：MeinaUnreal 【A028】
+主模型：MajicmixReverie【A028】
 权重：1.7
 ```
 (masterpiece),(best quality),(ultra-detailed), (full body:1.2), 1girl,chibi,cute, smile, open mouth, flower, outdoors, playing guitar, music, beret, holding guitar, jacket, blush, tree, :3, shirt, short hair, cherry blossoms, green headwear, blurry, brown hair, blush stickers, long sleeves, bangs, headphones, black hair, pink flower, (beautiful detailed face), (beautiful detailed eyes), <lora:blindbox_v1_mix:1>,
@@ -453,6 +421,31 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 **【出图22】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr27.png)
+
+**【提示词23】**
+主模型：GhostMix 【A012】
+```
+1girl, blouse, standing among the flowers
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark
+Steps: 30, Size: 512x683, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 15, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.15, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.16, ADetailer use inpaint width/height: True
+```
+
+**【出图23】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr28.png)
+
+**【提示词24】**
+主模型：MajicmixReverie【A028】
+```
+a bride holding a bouquet of flowers in her hands and a veil on her head, full-size photograph,Claire Dalby, flowers, a stock photo, romanticism,Blue solid background
+HDR,UHD,8K, best quality, masterpiece
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark
+Steps: 30, Size: 600x1024, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 15, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.15, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.16, ADetailer use inpaint width/height: True
+```
+
+**【出图23】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr29.png)
 
 ## 个人微信二维码转艺术二维码
 
