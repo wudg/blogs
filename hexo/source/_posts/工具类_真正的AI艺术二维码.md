@@ -443,9 +443,23 @@ Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low
 Steps: 30, Size: 600x1024, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 15, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.15, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.16, ADetailer use inpaint width/height: True
 ```
 
-**【出图23】**
+**【出图24】**
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr29.png)
+
+**【提示词25】**
+主模型：MajicmixReverie【A028】
+```
+a woman in a wedding dress holding a bouquet of flowers in front of a tree with pink flowers in it, Du Qiong, cosplay, a statue, neo-romanticism
+Blue solid background
+HDR,UHD,8K, best quality, masterpiece
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark
+Steps: 30, Size: 600x1024, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 15, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.15, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.16, ADetailer use inpaint width/height: True
+```
+
+**【出图25】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr30.png)
 
 ## 个人微信二维码转艺术二维码
 
