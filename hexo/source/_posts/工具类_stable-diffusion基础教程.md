@@ -16,8 +16,6 @@ date: 2023-07-09 12:23:00
 
 ![封面图](https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg)
 
-教程地址：https://www.bilibili.com/video/BV1tP41197ke
-
 ## 安装教程
 
 ### 基于启动器（内部集成了必备插件）

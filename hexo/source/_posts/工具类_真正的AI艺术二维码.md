@@ -17,6 +17,11 @@ date: 2023-07-07 19:51:00
 
 ![封面图](https://wudiguang.top/images/hexo/post/art-qr00.png)
 
+**【相关文章阅读】**
+
+环境搭建：[进入](../82066890)
+二维码尝鲜：[进入](../275dec8c)
+
 ## 生成发散的二维码
 
 网址：https://qrcode.antfu.me/
