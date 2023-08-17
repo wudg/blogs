@@ -194,7 +194,6 @@ include "2023/2023.bean" ; 2023年度记账
 
 ![图](https://wudiguang.top/images/hexo/post/beancount006.png)
 
-
 ### 日常记账
 
 ![图](https://wudiguang.top/images/hexo/post/beancount007.png)
