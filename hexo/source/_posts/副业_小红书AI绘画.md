@@ -57,21 +57,21 @@ Steps: 32, ENSD: 31337, Size: 380x640, Seed: 1999477460, Model: chosen-mix, Samp
 
 ### PC壁纸
 
-![AI图](../pic/ai/pc-wallpaper-p1.png)
+![AI图](..https://wudiguang.top/images/hexo/ai/pc-wallpaper-p1.png)
 
-![AI图](../pic/ai/pc-wallpaper-p2.png)
+![AI图](..https://wudiguang.top/images/hexo/ai/pc-wallpaper-p2.png)
 
 ### 手机端壁纸
 
-![AI图](../pic/ai/phone-wallpaper-p1.png)
+![AI图](..https://wudiguang.top/images/hexo/ai/phone-wallpaper-p1.png)
 
-![AI图](../pic/ai/phone-wallpaper-p2.png)
+![AI图](..https://wudiguang.top/images/hexo/ai/phone-wallpaper-p2.png)
 
 ### 头像
 
-![AI图](../pic/ai/head-wallpaper-p1.png)
+![AI图](..https://wudiguang.top/images/hexo/ai/head-wallpaper-p1.png)
 
-![AI图](../pic/ai/head-wallpaper-p2.png)
+![AI图](..https://wudiguang.top/images/hexo/ai/head-wallpaper-p2.png)
 
 ## 狗
 

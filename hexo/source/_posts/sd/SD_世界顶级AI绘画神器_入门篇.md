@@ -52,7 +52,7 @@ Stable Diffusion
 
 可以下载压缩包，也可以使用`git clone`方式下载。（推荐使用`git clone`方式）
 
-![图](../pic/post/../../../pic/post/sd002.png)
+![图](..https://wudiguang.top/images/hexo/post/../../..https://wudiguang.top/images/hexo/post/sd002.png)
 
 【tips】
 
@@ -72,7 +72,7 @@ ChilloutMix
 
 可以去C站下载，3.97G，下载完成后放到models/Stable-diffusion目录下
 
-![图](../pic/post/../../../pic/post/sd001.png)
+![图](..https://wudiguang.top/images/hexo/post/../../..https://wudiguang.top/images/hexo/post/sd001.png)
 
 ### 启动应用
 
@@ -84,11 +84,11 @@ ChilloutMix
 
 以下为应用启动成功时打印的内容：
 
-![图](../pic/post/../../../pic/post/sd003.png)
+![图](..https://wudiguang.top/images/hexo/post/../../..https://wudiguang.top/images/hexo/post/sd003.png)
 
 此时访问`http://127.0.0.1:7860`就能看到stable diffusion的页面，如下所示：
 
-![图](../pic/post/../../../pic/post/sd004.png)
+![图](..https://wudiguang.top/images/hexo/post/../../..https://wudiguang.top/images/hexo/post/sd004.png)
 
 ## 尝试生成漂亮AI美女
 
