@@ -198,3 +198,15 @@ include "2023/2023.bean" ; 2023年度记账
 ### 日常记账
 
 ![图](https://wudiguang.top/images/hexo/post/beancount007.png)
+
+## 欢迎加入我
+
+### 微信公众号
+
+![微信公众号](https://wudiguang.top/images/hexo/personal/wx_web.png)
+
+### 个人微信(下面图片是二维码!!!)
+
+**扫一扫识别~**
+
+![wechat](https://wudiguang.top/images/hexo/personal/art-wechat-qrcode.jpg)
