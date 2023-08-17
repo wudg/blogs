@@ -14,7 +14,7 @@ date: 2023-08-07 11:51:00
 
 [封面图]
 
-![封面图](..https://wudiguang.top/images/hexo/post/img2imgart03.png)
+![封面图](https://wudiguang.top/images/hexo/post/img2imgart03.png)
 
 ## 流程
 
@@ -25,7 +25,7 @@ date: 2023-08-07 11:51:00
 
 ## 图生图，反推提示词
 
-![图生图](..https://wudiguang.top/images/hexo/post/img2imgart01.png)
+![图生图](https://wudiguang.top/images/hexo/post/img2imgart01.png)
 
 按图操作，最终生成描述词：
 ```
@@ -65,4 +65,4 @@ CamelliaMIx_2.5D
 
 ## 生成漫画风格图
 
-![图生图](..https://wudiguang.top/images/hexo/post/img2imgart02.png)
+![图生图](https://wudiguang.top/images/hexo/post/img2imgart02.png)
