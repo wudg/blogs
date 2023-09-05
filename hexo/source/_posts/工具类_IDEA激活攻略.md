@@ -8,7 +8,7 @@ keyword: idea
 description: 【工具类】IDEA激活攻略
 cover: 'https://wudiguang.top/images/hexo/post/idea-cover.png'
 top_img: 'https://wudiguang.top/images/hexo/post/idea-cover.png'
-abbrlink: dbaafcf9
+abbrlink: cb9a0653
 date: 2023-09-05 11:23:00
 ---
 
