@@ -468,6 +468,35 @@ Steps: 30, Size: 700x1124, Seed: 1961413425, Model: majicmix_realv6_fp16, Sample
 
 ![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr30.png)
 
+**【提示词26】**
+主模型：MeinaMix【A023】
+Monster权重：1.3
+Brightness：0.3权重，引导介入步数0.55
+```
+(masterpiece:1.2), (best quality), (ultra detailed), (8k, 4k, intricate),(full-body-shot:1), (highly detailed:1.2),(detailed face:1.2), (detailed background),detailed landscape, (dynamic pose:1.2), <lora:pixel:0.7>((pixelart)),1girl, solo, looking at viewer, short hair, bangs, blonde hair, shirt, hair ornament, closed mouth, green eyes, upper body, braid, pointy ears, hairclip, cape, from side, parted bangs, blue shirt, portrait, forehead, black cape, crown braid
+Negative prompt: (low quality:1.4), (worst quality:1.4), (monochrome:1.1),(bad_prompt_version2:0.8), (bad-hands-5:1.1), lowres,(Bored pose), static pose, busty bad hands, lowers, long body, disfigured, ugly, cross eyed, squinting, grain, Deformed, blurry, bad anatomy, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands, blur, out of focus, long neck, disgusting, poorly drawn, mutilated, ((text)), ((centered shot)), ((symetric pose)), ((symetric)), multiple views, multiple panels, blurry, multiple panels, blurry, watermark, letterbox, text, easynegative,
+Steps: 30, Size: 800x800, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 15, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.15, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.16, ADetailer use inpaint width/height: True
+```
+
+**【出图26】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr31.png)
+
+**【提示词27】**
+主模型：MajicmixReverie【A028】
+Monster权重：1.8
+Brightness：0.3权重，引导介入步数0.55
+```
+windswept, windy, floating hair, floating clothes, floating flower petals, hair flowers, chinese clothes, hanfu, (baihuaniang:1.2), (many flowers:1.4), cowboy shot, (golden hour, garden, bushes, flowers, sky), <lora:百花酿:0.8>
+HDR,UHD,8K, best quality, masterpiece
+Negative prompt: nsfw, ng_deepnegative_v1_75t,badhandv4, (worst quality:2), (low quality:2), (normal quality:2), lowres,watermark
+Steps: 30, Size: 700x1124, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler: Euler a, CFG scale: 7, Clip skip: 2, Model hash: e4a30e4607, Hires steps: 15, Hires upscale: 2, ADetailer conf: 30, Hires upscaler: 4x-UltraSharp, ADetailer model: face_yolov8s.pt, ADetailer version: 23.5.6.post0, ADetailer x offset: 0, ADetailer y offset: 0, Denoising strength: 0.15, ADetailer CFG scale: 7.0, ADetailer mask blur: 4, ADetailer dilate/erode: 12, ADetailer inpaint full: True, ADetailer inpaint width: 512, ADetailer inpaint height: 512, ADetailer inpaint padding: 0, ADetailer denoising strength: 0.16, ADetailer use inpaint width/height: True
+```
+
+**【出图27】**
+
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr32.png)
+
 ## 个人微信二维码转艺术二维码
 
 1. 微信中导出个人二维码
