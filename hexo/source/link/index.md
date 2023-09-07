@@ -20,6 +20,10 @@ type: "link"
       link: https://www.waer.ltd/
       avatar: https://images.waer.ltd/img/bachiyaojian.jpeg
       descr: 惟有热爱，可抵岁月漫长!
+    - name: LiuCabbage
+      link: https://www.baocaige.top/
+      avatar: https://www.baocaige.top/upload/logo.jpg
+      descr: 一叶浮萍归大海，人生何处不相逢
 
 - class_name: 网站
   class_desc: 值得推荐的网站
