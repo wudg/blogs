@@ -16,6 +16,10 @@ type: "link"
       link: https://hillyee.github.io/
       avatar: https://wudiguang.top/images/hexo/blogger/hillyee.jpg
       descr: 前端爱好者
+    - name: 八尺妖剑
+      link: https://www.waer.ltd/
+      avatar: https://images.waer.ltd/img/bachiyaojian.jpeg
+      descr: 惟有热爱，可抵岁月漫长!
 
 - class_name: 网站
   class_desc: 值得推荐的网站
