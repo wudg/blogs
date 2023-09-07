@@ -31,6 +31,10 @@ type: "link"
       link: https://www.baocaige.top/
       avatar: https://www.baocaige.top/upload/logo.jpg
       descr: 一叶浮萍归大海，人生何处不相逢
+    - name: 碎幻梦灬
+      link: https://blog.chenyudong.cn/
+      avatar: https://img.chenyudong.cn/users/2023/07/28/64c37808067ad.jpg
+      descr: 命里有时终须有，命里无时莫强求！
 
 - class_name: 网站
   class_desc: 值得推荐的网站
