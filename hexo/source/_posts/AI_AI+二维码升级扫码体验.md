@@ -45,11 +45,11 @@ Stable Diffusion创建艺术二维码,这些二维码是用经过自定义训练
 
 1. 使用`GhostMix`模型
 2. 输入正向提示词和反向提示词
-```
-【prompt】：a cubism painting of a town with a lot of houses in the snow with a sky background, Andreas Rocha, matte painting concept art, a detailed matte painting
-【negative prompt】：ugly, disfigured, low quality, blurry, nsfw
-```
-![2](https://wudiguang.top/images/hexo/post/ai-qrcode02.png)
+   ```
+   【prompt】：a cubism painting of a town with a lot of houses in the snow with a sky background, Andreas Rocha, matte painting concept art, a detailed matte painting
+   【negative prompt】：ugly, disfigured, low quality, blurry, nsfw
+   ```
+   ![2](https://wudiguang.top/images/hexo/post/ai-qrcode02.png)
 3. 上传二维码到`img2img`画布
 4. 配置下面`img2img`参数
    * Resize mode: Just resize
