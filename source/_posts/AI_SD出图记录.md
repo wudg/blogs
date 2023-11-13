@@ -7,15 +7,15 @@ categories:
   - AI
 keyword: 【AI】SD出图记录
 description: 【AI】SD出图记录
-cover: https://wudiguang.top/images/hexo/post/cover-sd.png
-top_img: https://wudiguang.top/images/hexo/post/cover-sd.png
+cover: ../pic/post/cover-sd.png
+top_img: ../pic/post/cover-sd.png
 abbrlink: 9daf51d0
 date: 2023-07-04 21:12:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/post/cover-sd.png)
+![封面图](../pic/post/cover-sd.png)
 
 ## Meinamix
 
@@ -31,7 +31,7 @@ Steps: 25, Size: 512x1024, Seed: 3212833155, Model: Meina V10 - baked VAE, Versi
 
 【出图1】
 
-![1](https://wudiguang.top/images/hexo/post/sd001.png)
+![1](../pic/post/sd001.png)
 
 ---
 
@@ -43,7 +43,7 @@ Steps: 25, Size: 512x1024, Seed: 1224977198, Model: Meina V10 - baked VAE, Versi
 ```
 
 【出图2】
-![2](https://wudiguang.top/images/hexo/post/sd002.png)
+![2](../pic/post/sd002.png)
 
 ---
 
@@ -56,7 +56,7 @@ Steps: 40, Size: 512x1024, Seed: 1616786217, Model: Meina V10 - baked VAE, Versi
 ```
 
 【出图3】
-![3](https://wudiguang.top/images/hexo/post/sd003.png)
+![3](../pic/post/sd003.png)
 
 ---
 
@@ -69,7 +69,7 @@ Steps: 40, Size: 512x1024, Seed: 519946054, Model: Meina V10 - baked VAE, Versio
 ```
 
 【出图4】
-![4](https://wudiguang.top/images/hexo/post/sd004.png)
+![4](../pic/post/sd004.png)
 
 ---
 
@@ -82,7 +82,7 @@ Steps: 40, Size: 512x1024, Seed: 536580335, Model: Meina V10 - baked VAE, Versio
 ```
 
 【出图5】
-![5](https://wudiguang.top/images/hexo/post/sd005.png)
+![5](../pic/post/sd005.png)
 
 ---
 
@@ -100,7 +100,7 @@ Steps: 25, ENSD: 31337, Size: 512x1024, Seed: 1293666383, Model: CF5_Counterfeit
 ```
 
 【出图6】
-![6](https://wudiguang.top/images/hexo/post/sd006.png)
+![6](../pic/post/sd006.png)
 
 ---
 
@@ -113,7 +113,7 @@ Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 2311942344, Model: CF5_Counterfeit
 ```
 
 【出图7】
-![7](https://wudiguang.top/images/hexo/post/sd007.png)
+![7](../pic/post/sd007.png)
 
 ---
 
@@ -126,7 +126,7 @@ Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 2848648312, Model: CF5_Counterfeit
 ```
 
 【出图8】
-![8](https://wudiguang.top/images/hexo/post/sd008.png)
+![8](../pic/post/sd008.png)
 
 ---
 
@@ -139,7 +139,7 @@ Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 1599380747, Model: CF5_Counterfeit
 ```
 
 【出图9】
-![9](https://wudiguang.top/images/hexo/post/sd009.png)
+![9](../pic/post/sd009.png)
 
 ---
 
@@ -152,7 +152,7 @@ Steps: 25, ENSD: 31337, Size: 1024x512, Seed: 2490752706, Model: CF5_Counterfeit
 ```
 
 【出图10】
-![10](https://wudiguang.top/images/hexo/post/sd010.png)
+![10](../pic/post/sd010.png)
 
 ---
 
@@ -169,7 +169,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 1015468391, Model: GhostMix-V2.0-fp
 ```
 
 【出图11】
-![11](https://wudiguang.top/images/hexo/post/sd011.png)
+![11](../pic/post/sd011.png)
 
 ---
 
@@ -182,7 +182,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 1712913696, Model: GhostMix-V2.0-fp
 ```
 
 【出图12】
-![12](https://wudiguang.top/images/hexo/post/sd012.png)
+![12](../pic/post/sd012.png)
 
 ---
 
@@ -195,7 +195,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 1115696394, Model: GhostMix-V2.0-fp
 ```
 
 【出图13】
-![13](https://wudiguang.top/images/hexo/post/sd013.png)
+![13](../pic/post/sd013.png)
 
 ---
 
@@ -208,7 +208,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 584098645, Model: GhostMix-V2.0-fp1
 ```
 
 【出图14】
-![14](https://wudiguang.top/images/hexo/post/sd014.png)
+![14](../pic/post/sd014.png)
 
 ---
 
@@ -221,7 +221,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 584098645, Model: GhostMix-V2.0-fp1
 ```
 
 【出图15】
-![15](https://wudiguang.top/images/hexo/post/sd015.png)
+![15](../pic/post/sd015.png)
 
 ---
 
@@ -234,7 +234,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 1578462083, Model: GhostMix-V2.0-fp
 ```
 
 【出图16】
-![16](https://wudiguang.top/images/hexo/post/sd016.png)
+![16](../pic/post/sd016.png)
 
 ---
 
@@ -247,7 +247,7 @@ Steps: 30, ENSD: 31337, Size: 512x768, Seed: 1379218784, Model: GhostMix-V2.0-fp
 ```
 
 【出图17】
-![17](https://wudiguang.top/images/hexo/post/sd017.png)
+![17](../pic/post/sd017.png)
 
 ---
 
@@ -262,7 +262,7 @@ Steps: 25, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3278957223, Model: XXMix_
 ```
 
 【出图18】
-![18](https://wudiguang.top/images/hexo/post/sd018.png)
+![18](../pic/post/sd018.png)
 
 ---
 
@@ -275,7 +275,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 4025420449, Model: XXMix_
 ```
 
 【出图19】
-![19](https://wudiguang.top/images/hexo/post/sd019.png)
+![19](../pic/post/sd019.png)
 
 ---
 
@@ -288,7 +288,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3402257839, Model: XXMix_
 ```
 
 【出图20】
-![20](https://wudiguang.top/images/hexo/post/sd020.png)
+![20](../pic/post/sd020.png)
 
 ---
 
@@ -301,7 +301,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3845091088, Model: XXMix_
 ```
 
 【出图21】
-![21](https://wudiguang.top/images/hexo/post/sd021.png)
+![21](../pic/post/sd021.png)
 
 ---
 
@@ -314,7 +314,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 2216505348, Model: XXMix_
 ```
 
 【出图22】
-![22](https://wudiguang.top/images/hexo/post/sd022.png)
+![22](../pic/post/sd022.png)
 
 ---
 
@@ -327,7 +327,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 1330745489, Model: XXMix_
 ```
 
 【出图23】
-![23](https://wudiguang.top/images/hexo/post/sd023.png)
+![23](../pic/post/sd023.png)
 
 ---
 
@@ -340,7 +340,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3263461128, Model: XXMix_
 ```
 
 【出图24】
-![24](https://wudiguang.top/images/hexo/post/sd024.png)
+![24](../pic/post/sd024.png)
 
 ---
 
@@ -353,7 +353,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 4097189882, Model: XXMix_
 ```
 
 【出图25】
-![25](https://wudiguang.top/images/hexo/post/sd025.png)
+![25](../pic/post/sd025.png)
 
 ---
 
@@ -366,7 +366,7 @@ Steps: 28, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 2726299251, Model: XXMix_
 ```
 
 【出图26】
-![26](https://wudiguang.top/images/hexo/post/sd026.png)
+![26](../pic/post/sd026.png)
 
 ---
 
@@ -381,7 +381,7 @@ Steps: 30, Size: 512x683, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 ```
 
 【出图27】
-![27](https://wudiguang.top/images/hexo/post/sd027.png)
+![27](../pic/post/sd027.png)
 
 ---
 
@@ -394,7 +394,7 @@ Steps: 30, Size: 512x512, Seed: 3720662312, Model: majicmix_realv6_fp16, Sampler
 ```
 
 【出图28】
-![28](https://wudiguang.top/images/hexo/post/sd028.png)
+![28](../pic/post/sd028.png)
 
 ---
 
@@ -407,7 +407,7 @@ Steps: 30, Size: 500x800, Seed: 2448422190, Model: majicmix_realv609, Sampler: E
 ```
 
 【出图29】
-![29](https://wudiguang.top/images/hexo/post/sd029.png)
+![29](../pic/post/sd029.png)
 
 ---
 
@@ -420,7 +420,7 @@ Steps: 30, Size: 512x768, Seed: 140050360, Model: majicmix_realv609, Sampler: Eu
 ```
 
 【出图30】
-![30](https://wudiguang.top/images/hexo/post/sd030.png)
+![30](../pic/post/sd030.png)
 
 ---
 
@@ -433,7 +433,7 @@ Steps: 30, Size: 512x768, Seed: 140050360, Model: majicmix_realv609, Sampler: Eu
 ```
 
 【出图31】
-![31](https://wudiguang.top/images/hexo/post/sd031.png)
+![31](../pic/post/sd031.png)
 
 ---
 
@@ -446,6 +446,6 @@ Steps: 30, Size: 512x768, Seed: 140050360, Model: majicmix_realv609, Sampler: Eu
 ```
 
 【出图32】
-![32](https://wudiguang.top/images/hexo/post/sd032.png)
+![32](../pic/post/sd032.png)
 
 ---

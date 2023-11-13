@@ -6,8 +6,8 @@ categories:
   - 好用工具类
 keyword: rss
 description: Mac上配置RSS阅读器，并订阅感兴趣的RSS源
-cover: 'https://wudiguang.top/images/hexo/rss_view.png'
-top_img: 'https://wudiguang.top/images/hexo/rss_view.png'
+cover: '../pic/rss_view.png'
+top_img: '../pic/rss_view.png'
 abbrlink: e8a66e71
 date: 2023-02-22 20:23:00
 ---
@@ -15,7 +15,7 @@ date: 2023-02-22 20:23:00
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/rss_view.png)
+![封面图](../pic/rss_view.png)
 
 ## MAC上使用RSS
 

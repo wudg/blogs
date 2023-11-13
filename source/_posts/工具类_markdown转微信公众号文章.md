@@ -6,20 +6,20 @@ categories:
   - 好用工具类
 keyword: markdown转公众号
 description: 【工具类】markdown转微信公众号文章
-cover: https://wudiguang.top/images/hexo/post/wechat-official.jpg
-top_img: https://wudiguang.top/images/hexo/post/wechat-official.jpg
+cover: ../pic/post/wechat-official.jpg
+top_img: ../pic/post/wechat-official.jpg
 abbrlink: a1ff703e
 date: 2023-05-25 15:59:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/post/wechat-official.jpg)
+![封面图](../pic/post/wechat-official.jpg)
 
 ## 在线网站
 在线Markdown文章转微信公众号文章 [进入](https://knb.im/mp/)
 
-![](https://wudiguang.top/images/hexo/post/markdown-wechat-editor.png)
+![](../pic/post/markdown-wechat-editor.png)
 
 ## 步骤
 
@@ -29,4 +29,4 @@ date: 2023-05-25 15:59:00
 
 
 ## 下面是效果图
-![](https://wudiguang.top/images/hexo/post/wechat-editor-result.jpg)
+![](../pic/post/wechat-editor-result.jpg)

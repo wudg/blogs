@@ -6,15 +6,15 @@ categories:
   - 好用工具类
 keyword: 【工具类】安装并配置JDK环境
 description: 【工具类】安装并配置JDK环境
-cover: 'https://wudiguang.top/images/hexo/tools/cover-jdk.jpeg'
-top_img: 'https://wudiguang.top/images/hexo/tools/cover-jdk.jpeg'
+cover: '../pic/tools/cover-jdk.jpeg'
+top_img: '../pic/tools/cover-jdk.jpeg'
 abbrlink: b8044510
 date: 2023-04-01 10:23:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/tools/cover-jdk.jpeg)
+![封面图](../pic/tools/cover-jdk.jpeg)
 
 ## 下载和安装 JDK
 

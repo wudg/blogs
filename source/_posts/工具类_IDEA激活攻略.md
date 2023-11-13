@@ -6,19 +6,19 @@ categories:
   - 好用工具类
 keyword: idea
 description: 【工具类】IDEA激活攻略
-cover: 'https://wudiguang.top/images/hexo/post/idea-cover.png'
-top_img: 'https://wudiguang.top/images/hexo/post/idea-cover.png'
+cover: '../pic/post/idea-cover.png'
+top_img: '../pic/post/idea-cover.png'
 abbrlink: cb9a0653
 date: 2023-09-05 11:23:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/post/idea-cover.png)
+![封面图](../pic/post/idea-cover.png)
 
 ## 2023年9月更新
 
-![封面图](https://wudiguang.top/images/hexo/post/idea001.png)
+![封面图](../pic/post/idea001.png)
 
 ### 资源包
 

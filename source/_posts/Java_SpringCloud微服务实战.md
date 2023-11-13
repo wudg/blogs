@@ -6,15 +6,15 @@ categories:
   - java
 keyword: 'Java,SpringCloud'
 description: SpringCloud实战详解
-cover: 'https://wudiguang.top/images/hexo/books/cover-book004.png'
-top_img: 'https://wudiguang.top/images/hexo/books/cover-book004.png'
+cover: '../pic/books/cover-book004.png'
+top_img: '../pic/books/cover-book004.png'
 abbrlink: 39bfa02f
 date: 2023-03-17 10:46:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/books/cover-book004.png)
+![封面图](../pic/books/cover-book004.png)
 
 ## 基础知识
 

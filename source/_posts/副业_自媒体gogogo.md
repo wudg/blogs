@@ -6,15 +6,15 @@ categories:
   - 副业
 keyword: 【副业】自媒体gogogo
 description: 【副业】自媒体gogogo
-cover: 'https://wudiguang.top/images/hexo/cover-parttime-job.jpeg'
-top_img: 'https://wudiguang.top/images/hexo/cover-parttime-job.jpeg'
+cover: '../pic/cover-parttime-job.jpeg'
+top_img: '../pic/cover-parttime-job.jpeg'
 abbrlink: 2c4fd0eb
 date: 2023-07-17 17:23:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/cover-parttime-job.jpeg)
+![封面图](../pic/cover-parttime-job.jpeg)
 
 核心：技术／写作能力／颜值
 

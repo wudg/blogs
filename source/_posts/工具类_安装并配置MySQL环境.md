@@ -6,15 +6,15 @@ categories:
   - 好用工具类
 keyword: 【工具类】安装并配置MySQL环境
 description: 【工具类】安装并配置MySQL环境
-cover: 'https://wudiguang.top/images/hexo/tools/cover-mysql.jpeg'
-top_img: 'https://wudiguang.top/images/hexo/tools/cover-mysql.jpeg'
+cover: '../pic/tools/cover-mysql.jpeg'
+top_img: '../pic/tools/cover-mysql.jpeg'
 abbrlink: bec10db6
 date: 2023-04-01 11:23:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/tools/cover-mysql.jpeg)
+![封面图](../pic/tools/cover-mysql.jpeg)
 
 ## MySQL8
 

@@ -6,15 +6,15 @@ categories:
   - 副业
 keyword: 【副业】小红书AI绘画
 description: 【副业】自媒体成长路线
-cover: 'https://wudiguang.top/images/hexo/cover-parttime-job.jpeg'
-top_img: 'https://wudiguang.top/images/hexo/cover-parttime-job.jpeg'
+cover: '../pic/cover-parttime-job.jpeg'
+top_img: '../pic/cover-parttime-job.jpeg'
 abbrlink: 7a9ceaa3
 date: 2023-07-23 15:23:00
 ---
 
 [封面图]
 
-![封面图](https://wudiguang.top/images/hexo/cover-parttime-job.jpeg)
+![封面图](../pic/cover-parttime-job.jpeg)
 
 ## 前言
 
@@ -57,21 +57,21 @@ Steps: 32, ENSD: 31337, Size: 380x640, Seed: 1999477460, Model: chosen-mix, Samp
 
 ### PC壁纸
 
-![AI图](https://wudiguang.top/images/hexo/ai/pc-wallpaper-p1.png)
+![AI图](../pic/ai/pc-wallpaper-p1.png)
 
-![AI图](https://wudiguang.top/images/hexo/ai/pc-wallpaper-p2.png)
+![AI图](../pic/ai/pc-wallpaper-p2.png)
 
 ### 手机端壁纸
 
-![AI图](https://wudiguang.top/images/hexo/ai/phone-wallpaper-p1.png)
+![AI图](../pic/ai/phone-wallpaper-p1.png)
 
-![AI图](https://wudiguang.top/images/hexo/ai/phone-wallpaper-p2.png)
+![AI图](../pic/ai/phone-wallpaper-p2.png)
 
 ### 头像
 
-![AI图](https://wudiguang.top/images/hexo/ai/head-wallpaper-p1.png)
+![AI图](../pic/ai/head-wallpaper-p1.png)
 
-![AI图](https://wudiguang.top/images/hexo/ai/head-wallpaper-p2.png)
+![AI图](../pic/ai/head-wallpaper-p2.png)
 
 ## 狗
 
