@@ -6,15 +6,15 @@ categories:
   - 博客
 keyword: 【博客】环境搭建之hexo＋butterfly
 description: 【博客】环境搭建之hexo＋butterfly
-cover: '../pic/cover-hexo.jpeg'
-top_img: '../pic/cover-hexo.jpeg'
+cover: 'https://wudiguang.top/images/hexo/cover-hexo.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/cover-hexo.jpeg'
 abbrlink: 30acc975
 date: 2023-03-02 18:40:00
 ---
 
 [封面图]
 
-![封面图](../pic/cover-hexo.jpeg)
+![封面图](https://wudiguang.top/images/hexo/cover-hexo.jpeg)
 
 ## 环境准备
 1. 本地配置`npm`环境 [下载安装](https://link.zhihu.com/?target=https%3A//nodejs.org/en/download/)

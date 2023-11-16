@@ -6,15 +6,15 @@ categories:
   - 好用工具类
 keyword: chatgpt
 description: 【工具类】ChatGPT资源收录
-cover: ../pic/post/cover-chatgpt.jpg
-top_img: ../pic/post/cover-chatgpt.jpg
+cover: https://wudiguang.top/images/hexo/post/cover-chatgpt.jpg
+top_img: https://wudiguang.top/images/hexo/post/cover-chatgpt.jpg
 abbrlink: 2817151a
 date: 2023-05-25 10:35:00
 ---
 
 [封面图]
 
-![封面图](../pic/post/cover-chatgpt.jpg)
+![封面图](https://wudiguang.top/images/hexo/post/cover-chatgpt.jpg)
 
 本文旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费的ChatGPT资源，以及如何更有效地使用中文与 ChatGPT 进行交流的方法。在这个仓库中，您将找到丰富的 ChatGPT工具、应用和示例。
 
@@ -203,4 +203,4 @@ date: 2023-05-25 10:35:00
 
 
 如果你也对ChatGPT感兴趣，欢迎大家扫码进群，也可以添加我的个人微信：Y1490727316
-![微信群](../pic/post/wechat-chatgpt.png)
+![微信群](https://wudiguang.top/images/hexo/post/wechat-chatgpt.png)

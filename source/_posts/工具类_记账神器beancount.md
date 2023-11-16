@@ -7,15 +7,15 @@ categories:
   - 工具
 keyword: 【工具类】纯文本复式记账beancount
 description: 【工具类】纯文本复式记账beancount
-cover: '../pic/post/beancount-cover.png'
-top_img: '../pic/post/beancount-cover.png'
+cover: 'https://wudiguang.top/images/hexo/post/beancount-cover.png'
+top_img: 'https://wudiguang.top/images/hexo/post/beancount-cover.png'
 abbrlink: eb5914ea
 date: 2023-08-17 19:58:00
 ---
 
 [封面图]
 
-![封面图](../pic/post/beancount-cover.png)
+![封面图](https://wudiguang.top/images/hexo/post/beancount-cover.png)
 
 推荐阅读：[记账神器 Beancount 教程](https://sspai.com/post/59777)
 
@@ -72,11 +72,11 @@ git clone https://github.com/full-docs/financial-management-basic.git
 
 在浏览器地址栏输入：http://127.0.0.1:5000
 
-![图](../pic/post/beancount008.png)
+![图](https://wudiguang.top/images/hexo/post/beancount008.png)
 
 使用VS Code软件打开上面克隆到本地的文件夹
 
-![图](../pic/post/beancount001.png)
+![图](https://wudiguang.top/images/hexo/post/beancount001.png)
 
 **目录如下**
 
@@ -119,7 +119,7 @@ include "2022/6.bean" ; 包含账户信息
 
 ## 升级使用
 
-![图](../pic/post/beancount002.png)
+![图](https://wudiguang.top/images/hexo/post/beancount002.png)
 
 在我个人使用的版本中，做了一些改造升级
 
@@ -176,36 +176,36 @@ include "2023/2023.bean" ; 2023年度记账
 
 ### 损益表
 
-![封面图](../pic/post/beancount-cover.png)
+![封面图](https://wudiguang.top/images/hexo/post/beancount-cover.png)
 
 ### 资产负债表
 
-![图](../pic/post/beancount003.png)
+![图](https://wudiguang.top/images/hexo/post/beancount003.png)
 
 ### 日记账
 
-![图](../pic/post/beancount004.png)
+![图](https://wudiguang.top/images/hexo/post/beancount004.png)
 
 ### 事件记录
 
-![图](../pic/post/beancount005.png)
+![图](https://wudiguang.top/images/hexo/post/beancount005.png)
 
 ### Web编辑器
 
-![图](../pic/post/beancount006.png)
+![图](https://wudiguang.top/images/hexo/post/beancount006.png)
 
 ### 日常记账
 
-![图](../pic/post/beancount007.png)
+![图](https://wudiguang.top/images/hexo/post/beancount007.png)
 
 ## 欢迎加入我
 
 ### 微信公众号
 
-![微信公众号](../pic/personal/wx_web.png)
+![微信公众号](https://wudiguang.top/images/hexo/personal/wx_web.png)
 
 ### 个人微信(下面图片是二维码!!!)
 
 **扫一扫识别~**
 
-![wechat](../pic/personal/art-wechat-qrcode.jpg)
+![wechat](https://wudiguang.top/images/hexo/personal/art-wechat-qrcode.jpg)

@@ -6,15 +6,15 @@ categories:
   - 工具
 keyword: 【工具类】内网穿透工具frp
 description: 【工具类】内网穿透工具frp
-cover: '../pic/cover-frp.jpeg'
-top_img: '../pic/cover-frp.jpeg'
+cover: 'https://wudiguang.top/images/hexo/cover-frp.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/cover-frp.jpeg'
 abbrlink: 8e63b8dd
 date: 2023-03-06 13:20:00
 ---
 
 [封面图]
 
-![封面图](../pic/cover-frp.jpeg)
+![封面图](https://wudiguang.top/images/hexo/cover-frp.jpeg)
 
 ## 工具目的
 > 将本地运行的http服务，穿透到外网，即通过外网IP即可访问到我们本地的web服务
@@ -42,7 +42,7 @@ date: 2023-03-06 13:20:00
 
 根据我们不同客户端，下载对应的frp即可
 
-![frp release](../pic/github-frp-release.png)
+![frp release](https://wudiguang.top/images/hexo/github-frp-release.png)
 
 如，我的云服务器是centos8系统，本地是Mac系统，因此，我需要同时下载`rp_0.47.0_linux_arm.tar.gz
 `和`frp_0.47.0_linux_386.tar.gz`

@@ -6,8 +6,8 @@ categories:
   - 后端
 keyword: 探索Spring Cloud Netflix Eureka
 description: 探索Spring Cloud Netflix Eureka
-cover: '../pic/vue/cover-vuex.jpeg'
-top_img: '../pic/vue/cover-vuex.jpeg'
+cover: 'https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg'
 abbrlink: a8ee6840
 date: 2023-05-07 10:33:00
 ---

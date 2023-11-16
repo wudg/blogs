@@ -7,15 +7,15 @@ categories:
   - 工具
 keyword: 【工具类】Kali系统尝鲜
 description: 【工具类】Kali系统尝鲜
-cover: '../pic/tools/cover-chatgpt.jpeg'
-top_img: '../pic/tools/cover-chatgpt.jpeg'
+cover: 'https://wudiguang.top/images/hexo/tools/cover-chatgpt.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/tools/cover-chatgpt.jpeg'
 abbrlink: 31e01ccd
 date: 2023-07-21 15:50:00
 ---
 
 [封面图]
 
-![封面图](../pic/tools/cover-chatgpt.jpeg)
+![封面图](https://wudiguang.top/images/hexo/tools/cover-chatgpt.jpeg)
 
 教程地址：https://www.bilibili.com/video/BV17M4y1578y/
 

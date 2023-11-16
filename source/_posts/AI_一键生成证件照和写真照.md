@@ -6,15 +6,15 @@ categories:
   - AI
 keyword: sd
 description: 【工具类】一键生成证件照和写真照
-cover: ../pic/post/easy-photo01.png
-top_img: ../pic/post/easy-photo01.png
+cover: https://wudiguang.top/images/hexo/post/easy-photo01.png
+top_img: https://wudiguang.top/images/hexo/post/easy-photo01.png
 abbrlink: 352eca1e
 date: 2023-11-15 11:21:00
 ---
 
 [封面图]
 
-![封面图](../pic/post/easy-photo01.png)
+![封面图](https://wudiguang.top/images/hexo/post/easy-photo01.png)
 
 ## 环境
 
@@ -35,11 +35,11 @@ stable-diffusion-webui版本：1.6.0
 
 ### 训练模型
 
-![封面图](../pic/post/cover-easy-photo.png)
+![封面图](https://wudiguang.top/images/hexo/post/cover-easy-photo.png)
 
 按上面步骤开始训练模型，点击`Start Training`，并给本地训练取个别名，这里我命名为`demo`
 
 
 ### 生成证件照
 
-![封面图](../pic/post/easy-photo02.png)
+![封面图](https://wudiguang.top/images/hexo/post/easy-photo02.png)

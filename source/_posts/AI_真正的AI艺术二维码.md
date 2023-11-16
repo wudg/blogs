@@ -7,15 +7,15 @@ categories:
   - 好用工具类
 keyword: chatgpt
 description: 【工具类】使用AI+二维码升级扫码体验
-cover: '../pic/post/art-qr00.png'
-top_img: '../pic/post/art-qr00.png'
+cover: 'https://wudiguang.top/images/hexo/post/art-qr00.png'
+top_img: 'https://wudiguang.top/images/hexo/post/art-qr00.png'
 abbrlink: 9ac75607
 date: 2023-07-07 19:51:00
 ---
 
 [封面图]
 
-![封面图](../pic/post/art-qr00.png)
+![封面图](https://wudiguang.top/images/hexo/post/art-qr00.png)
 
 **【相关文章阅读】**
 
@@ -28,7 +28,7 @@ date: 2023-07-07 19:51:00
 
 将生成好的二维码文件保存下来，用于后面的步骤
 
-![普通二维码](../pic/post/art-qr01.png)
+![普通二维码](https://wudiguang.top/images/hexo/post/art-qr01.png)
 
 ## 生成艺术二维码
 
@@ -78,18 +78,18 @@ Steps: 25, ENSD: 31337, Size: 768x768, Seed: 1293666383, Model: CF5_Counterfeit-
 
 **第一个ControlNet Unit**
 
-![配置1](../pic/post/art-qr02.png)
+![配置1](https://wudiguang.top/images/hexo/post/art-qr02.png)
 
 **第二个ControlNet Unit**
 
-![配置2](../pic/post/art-qr03.png)
+![配置2](https://wudiguang.top/images/hexo/post/art-qr03.png)
 
 ### 生成目标艺术二维码
 
 
 `tips：` 这里要注意，生成艺术二维码是有一定的失败率的，要想生成自己期望的艺术二维码，需要多尝试几次。
 
-![艺术二维码](../pic/post/art-qr00.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr00.png)
 
 ## 一些例子
 
@@ -105,7 +105,7 @@ Steps: 25, ENSD: 31337, Size: 768x768, Seed: 2311942344, Model: CF5_Counterfeit-
 
 **【出图1】**
 
-![艺术二维码](../pic/post/art-qr04.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr04.png)
 
 ---
 
@@ -119,7 +119,7 @@ Steps: 25, ENSD: 31337, Size: 768x768, Seed: 976266318, Model: CF5_Counterfeit-V
 
 **【出图11】**
 
-![艺术二维码](../pic/post/art-qr14.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr14.png)
 
 ---
 
@@ -133,7 +133,7 @@ Steps: 30, ENSD: 31337, Size: 768x768, Seed: 1712913696, Model: GhostMix-V2.0-fp
 
 **【出图2】**
 
-![艺术二维码](../pic/post/art-qr05.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr05.png)
 
 
 **【提示词3】**
@@ -146,7 +146,7 @@ Steps: 25, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3278957223, Model: XXMix_
 
 **【出图3】**
 
-![艺术二维码](../pic/post/art-qr06.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr06.png)
 
 ---
 
@@ -160,7 +160,7 @@ Steps: 25, Eta: 0.2, ENSD: 31337, Size: 512x768, Seed: 3278957223, Model: XXMix_
 
 **【出图4】**
 
-![艺术二维码](../pic/post/art-qr07.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr07.png)
 
 **【提示词5】**
 主模型：GhostMix 【A012】
@@ -172,7 +172,7 @@ Steps: 25, Size: 768x768, Seed: 1224977198, Model: Meina V10 - baked VAE, Versio
 
 **【出图5】**
 
-![艺术二维码](../pic/post/art-qr08.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr08.png)
 
 **【提示词6】**
 主模型：GhostMix 【A012】
@@ -184,7 +184,7 @@ Steps: 40, Size: 768x768, Seed: 1616786217, Model: Meina V10 - baked VAE, Versio
 
 **【出图6】**
 
-![艺术二维码](../pic/post/art-qr09.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr09.png)
 
 **【提示词7】**
 主模型Dark Sushi Mix 大颗寿司Mix 【010】
@@ -201,7 +201,7 @@ Steps: 20, Size: 768x768, Seed: 969039108, Model: MAADBD2fp16, (blurry: 2.0), ho
 
 **【出图7】**
 
-![艺术二维码](../pic/post/art-qr10.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr10.png)
 
 ---
 
@@ -215,7 +215,7 @@ Steps: 20, Size: 576x832, Seed: 1444986668, Model: MAADBD2fp16, (blurry: 2.0), h
 
 **【出图8】**
 
-![艺术二维码](../pic/post/art-qr11.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr11.png)
 
 ---
 
@@ -229,7 +229,7 @@ Steps: 20, Size: 576x832, Seed: 1444986668, Model: MAADBD2fp16, (blurry: 2.0), h
 
 **【出图9】**
 
-![艺术二维码](../pic/post/art-qr12.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr12.png)
 
 ---
 
@@ -245,7 +245,7 @@ Steps: 20, Size: 768x768, Seed: 665810449, Model: MAADBD2fp16, (blurry: 2.0), ho
 
 **【出图10】**
 
-![艺术二维码](../pic/post/art-qr13.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr13.png)
 
 ---
 
@@ -264,7 +264,7 @@ Steps: 20, Size: 576x832, Seed: 969039108, Model: MAADBD2fp16, (blurry: 2.0), ho
 
 **【出图17】**
 
-![艺术二维码](../pic/post/art-qr17.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr17.png)
 
 **【提示词19】**
 主模型：majicMIX realistic 麦橘写实 【013】
@@ -276,7 +276,7 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 
 **【出图19】**
 
-![艺术二维码](../pic/post/art-qr15.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr15.png)
 
 ---
 
@@ -290,7 +290,7 @@ Steps: 30, Size: 768x768, Seed: 3698311310, Model: majicmix_realv609, Sampler: E
 
 **【出图12】**
 
-![艺术二维码](../pic/post/art-qr16.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr16.png)
 
 **【提示词13】**
 主模型：ReV Animated 【021】
@@ -302,7 +302,7 @@ Steps: 30, ENSD: 31337, Size: 768x768, Seed: 2937362614, Model: rev_1.2.2, Sampl
 
 **【出图13】**
 
-![艺术二维码](../pic/post/art-qr18.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr18.png)
 
 
 **【提示词14】**
@@ -323,7 +323,7 @@ Steps: 28, ENSD: 31337, Size: 576x768, Seed: 3401667259, Model: revAnimated_v11,
 
 **【出图14】**
 
-![艺术二维码](../pic/post/art-qr19.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr19.png)
 
 **【提示词15】**
 主模型：Cheese Daddy's Landscapes mix 【A006】
@@ -346,7 +346,7 @@ Steps: 20, ENSD: 31337, Size: 768x768, Seed: 1514496775, Model: Babes_2.0_Babes_
 
 **【出图16】**
 
-![艺术二维码](../pic/post/art-qr21.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr21.png)
 
 **【提示词17】**
 主模型：Babes 【A003】
@@ -359,7 +359,7 @@ Steps: 20, ENSD: 31337, Size: 768x768, Seed: 1242511258, Model: Babes_2.0_Babes_
 
 **【出图17】**
 
-![艺术二维码](../pic/post/art-qr22.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr22.png)
 
 **【提示词18】**
 主模型：MeinaUnreal 【A016】
@@ -371,7 +371,7 @@ Steps: 40, Size: 512x1024, Seed: 323750173, Model: MeinaUnreal V4.1 pruned, Vers
 
 **【出图18】**
 
-![艺术二维码](../pic/post/art-qr23.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr23.png)
 
 **【提示词19】**
 主模型：MajicmixReverie【A028】
@@ -384,7 +384,7 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 
 **【出图19】**
 
-![艺术二维码](../pic/post/art-qr24.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr24.png)
 
 **【提示词20】**
 主模型：MajicmixReverie【A028】
@@ -397,7 +397,7 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 
 **【出图20】**
 
-![艺术二维码](../pic/post/art-qr25.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr25.png)
 
 
 **【提示词21】**
@@ -411,7 +411,7 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 
 **【出图21】**
 
-![艺术二维码](../pic/post/art-qr26.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr26.png)
 
 
 **【提示词22】**
@@ -425,7 +425,7 @@ Steps: 30, Size: 768x768, Seed: 321001525, Model: majicmix_realv6_fp16, Sampler:
 
 **【出图22】**
 
-![艺术二维码](../pic/post/art-qr27.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr27.png)
 
 **【提示词23】**
 主模型：GhostMix 【A012】
@@ -437,7 +437,7 @@ Steps: 30, Size: 512x683, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler
 
 **【出图23】**
 
-![艺术二维码](../pic/post/art-qr28.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr28.png)
 
 **【提示词24】**
 主模型：MajicmixReverie【A028】
@@ -450,7 +450,7 @@ Steps: 30, Size: 600x1024, Seed: 1961413425, Model: majicmix_realv6_fp16, Sample
 
 **【出图24】**
 
-![艺术二维码](../pic/post/art-qr29.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr29.png)
 
 **【提示词25】**
 主模型：MajicmixReverie【A028】
@@ -466,7 +466,7 @@ Steps: 30, Size: 700x1124, Seed: 1961413425, Model: majicmix_realv6_fp16, Sample
 
 **【出图25】**
 
-![艺术二维码](../pic/post/art-qr30.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr30.png)
 
 **【提示词26】**
 主模型：MeinaMix【A023】
@@ -480,7 +480,7 @@ Steps: 30, Size: 800x800, Seed: 1961413425, Model: majicmix_realv6_fp16, Sampler
 
 **【出图26】**
 
-![艺术二维码](../pic/post/art-qr31.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr31.png)
 
 **【提示词27】**
 主模型：MajicmixReverie【A028】
@@ -495,7 +495,7 @@ Steps: 30, Size: 700x1124, Seed: 1961413425, Model: majicmix_realv6_fp16, Sample
 
 **【出图27】**
 
-![艺术二维码](../pic/post/art-qr32.png)
+![艺术二维码](https://wudiguang.top/images/hexo/post/art-qr32.png)
 
 ## 个人微信二维码转艺术二维码
 
@@ -509,10 +509,10 @@ Steps: 30, Size: 700x1124, Seed: 1961413425, Model: majicmix_realv6_fp16, Sample
 
 ### 微信公众号
 
-![微信公众号](../pic/personal/wx_web.png)
+![微信公众号](https://wudiguang.top/images/hexo/personal/wx_web.png)
 
 ### 微信群
 
-![chatgpt-group](../pic/personal/chatgpt-group.jpg)
+![chatgpt-group](https://wudiguang.top/images/hexo/personal/chatgpt-group.jpg)
 
 

@@ -7,15 +7,15 @@ categories:
   - 前端
 keyword: 好好学习技术
 description: 前端_vue2菜鸟教程笔记
-cover: '../pic/vue/cover-vuex.jpeg'
-top_img: '../pic/vue/cover-vuex.jpeg'
+cover: 'https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg'
 abbrlink: 7b7fd121
 date: 2023-09-07 22:53:00
 ---
 
 [封面图]
 
-![封面图](../pic/vue/cover-vuex.jpeg)
+![封面图](https://wudiguang.top/images/hexo/vue/cover-vuex.jpeg)
 
 ## Vue 教程
 

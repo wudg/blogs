@@ -7,8 +7,8 @@ categories:
   - 前端
 keyword: 写给后端程序员看的vue
 description: 写给后端程序员看的vue
-cover: '../pic/vue/cover-vue.jpeg'
-top_img: '../pic/vue/cover-vue.jpeg'
+cover: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
 abbrlink: d8770c1d
 date: 2023-02-24 22:53:00
 ---

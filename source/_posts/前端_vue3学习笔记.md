@@ -7,8 +7,8 @@ categories:
   - 前端
 keyword: 好好学习技术
 description: vue3学习笔记
-cover: '../pic/vue/cover-vue.jpeg'
-top_img: '../pic/vue/cover-vue.jpeg'
+cover: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/vue/cover-vue.jpeg'
 abbrlink: 90ab2ea3
 date: 2023-02-24 22:53:00
 ---
@@ -25,7 +25,7 @@ date: 2023-02-24 22:53:00
 安装vue-cli：cnpm install -g @vue/cli
 MAC报错：npm install --ignore-scripts
 
-![](../pic/vue/vue3-catalogue.png)
+![](https://wudiguang.top/images/hexo/vue/vue3-catalogue.png)
 
 ## 开始
 
@@ -192,7 +192,7 @@ data() {
 ```
 
 完整指令语法
-![](../pic/vue/complete_instruction.png)
+![](https://wudiguang.top/images/hexo/vue/complete_instruction.png)
 
 ### 响应式基础
 

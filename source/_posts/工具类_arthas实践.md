@@ -6,15 +6,15 @@ categories:
   - 好用工具类
 keyword: arthas
 description: 【工具类】arthas实践
-cover: '../pic/tools/cover-arthas.jpg'
-top_img: '../pic/tools/cover-arthas.jpg'
+cover: 'https://wudiguang.top/images/hexo/tools/cover-arthas.jpg'
+top_img: 'https://wudiguang.top/images/hexo/tools/cover-arthas.jpg'
 abbrlink: dbaafcf9
 date: 2023-03-23 11:23:00
 ---
 
 [封面图]
 
-![封面图](../pic/tools/cover-arthas.jpg)
+![封面图](https://wudiguang.top/images/hexo/tools/cover-arthas.jpg)
 
 ## 简介
 
@@ -39,7 +39,7 @@ Arthas 旨在解决线上debug问题。开发人员可以在线解决生产问�
 
 在运行java服务的机器上，下载并运行arthas：`wget https://arthas.aliyun.com/arthas-boot.jar && java -jar arthas-boot.jar`
 
-![arthas-plugin2](../pic/tools/arthas-cmd.png)
+![arthas-plugin2](https://wudiguang.top/images/hexo/tools/arthas-cmd.png)
 
 **开启监听**
 
@@ -63,7 +63,7 @@ watch com.wdg.Executor onTime '{params,returnObj,throwExp}'  -n 50  -x 3
 
 [IDEA插件](https://plugins.jetbrains.com/plugin/13581-arthas-idea)
 
-![arthas-plugin2](../pic/tools/arthas-plugin2.png)
+![arthas-plugin2](https://wudiguang.top/images/hexo/tools/arthas-plugin2.png)
 
 ## Arthas命令大全
 

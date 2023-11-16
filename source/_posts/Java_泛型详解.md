@@ -6,15 +6,15 @@ categories:
   - java
 keyword: 'Java,泛型'
 description: 【Java】泛型详解
-cover: '../pic/cover-generic.png'
-top_img: '../pic/cover-generic.png'
+cover: 'https://wudiguang.top/images/hexo/cover-generic.png'
+top_img: 'https://wudiguang.top/images/hexo/cover-generic.png'
 abbrlink: efb08324
 date: 2023-03-02 10:23:00
 ---
 
 [封面图]
 
-![封面图](../pic/cover-generic.png)
+![封面图](https://wudiguang.top/images/hexo/cover-generic.png)
 
 ## 泛型概述
 

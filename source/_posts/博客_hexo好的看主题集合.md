@@ -6,8 +6,8 @@ categories:
   - 博客
 keyword: 【博客】hexo好的看主题集合
 description: 【博客】hexo好的看主题集合
-cover: '../pic/cover-hexo.jpeg'
-top_img: '../pic/cover-hexo.jpeg'
+cover: 'https://wudiguang.top/images/hexo/cover-hexo.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/cover-hexo.jpeg'
 abbrlink: a8b0fe37
 date: 2023-03-05 18:40:00
 ---
@@ -15,14 +15,14 @@ date: 2023-03-05 18:40:00
 ## 博客主题推荐
 
 ### 001 [在线访问](https://haojen.github.io/Claudia-theme-blog/)
-![](../pic/hexo_themes/themes_001_1.png)
-![](../pic/hexo_themes/themes_001_2.png)
-![](../pic/hexo_themes/themes_001_3.png)
-![](../pic/hexo_themes/themes_001_4.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_001_1.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_001_2.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_001_3.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_001_4.png)
 
 ### 002 [在线访问](https://www.haomwei.com/)
-![](../pic/hexo_themes/themes_002_1.png)
-![](../pic/hexo_themes/themes_002_2.png)
-![](../pic/hexo_themes/themes_002_3.png)
-![](../pic/hexo_themes/themes_002_4.png)
-![](../pic/hexo_themes/themes_002_5.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_002_1.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_002_2.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_002_3.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_002_4.png)
+![](https://wudiguang.top/images/hexo/hexo_themes/themes_002_5.png)

@@ -6,15 +6,15 @@ categories:
   - 好用工具类
 keyword: 'stable-diffusion,教程'
 description: 【工具类】stable diffusion教程
-cover: '../pic/tools/stablediffusion.jpeg'
-top_img: '../pic/tools/stablediffusion.jpeg'
+cover: 'https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg'
+top_img: 'https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg'
 abbrlink: '82066890'
 date: 2023-07-09 12:23:00
 ---
 
 [封面图]
 
-![封面图](../pic/tools/stablediffusion.jpeg)
+![封面图](https://wudiguang.top/images/hexo/tools/stablediffusion.jpeg)
 
 ## 安装教程
 
@@ -42,7 +42,7 @@ Github残酷地址：https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 **安装步骤**
 
-![本地安装](../pic/post/sd-setting.png)
+![本地安装](https://wudiguang.top/images/hexo/post/sd-setting.png)
 
 安装完成后，在浏览器中访问：http://127.0.0.1:7860/?__theme=dark
 
@@ -175,8 +175,8 @@ VAE安装目录：stable-diffusion-webui\models\VAE
 
 ### 微信公众号
 
-![微信公众号](../pic/personal/wx_web.png)
+![微信公众号](https://wudiguang.top/images/hexo/personal/wx_web.png)
 
 ### 微信群
 
-![chatgpt-group](../pic/personal/chatgpt-group.jpg)
+![chatgpt-group](https://wudiguang.top/images/hexo/personal/chatgpt-group.jpg)

@@ -7,15 +7,15 @@ categories:
   - 好用工具类
 keyword: 【工具类】python实现表格数据批量处理
 description: 【工具类】python实现表格数据批量处理
-cover: ../pic/post/cover-excel.jpg
-top_img: ../pic/post/cover-excel.jpg
+cover: https://wudiguang.top/images/hexo/post/cover-excel.jpg
+top_img: https://wudiguang.top/images/hexo/post/cover-excel.jpg
 abbrlink: 1c8aced5
 date: 2023-06-28 16:23:00
 ---
 
 [封面图]
 
-![封面图](../pic/post/cover-excel.jpg)
+![封面图](https://wudiguang.top/images/hexo/post/cover-excel.jpg)
 
 ## python程序打包成exe可执行文件
 

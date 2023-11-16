@@ -6,15 +6,15 @@ categories:
   - Github
 keyword: 【工具类】使用xxl-job代替了云函数来完成自动签到
 description: 【工具类】使用xxl-job代替了云函数来完成自动签到
-cover: '../pic/cover-xxljob.png'
-top_img: '../pic/cover-xxljob.png'
+cover: 'https://wudiguang.top/images/hexo/cover-xxljob.png'
+top_img: 'https://wudiguang.top/images/hexo/cover-xxljob.png'
 abbrlink: bfbd175c
 date: 2023-03-22 16:40:00
 ---
 
 [封面图]
 
-![封面图](../pic/cover-xxljob.png)
+![封面图](https://wudiguang.top/images/hexo/cover-xxljob.png)
 
 ## 摘要
 
@@ -32,7 +32,7 @@ date: 2023-03-22 16:40:00
   
 一次偶然的机会，当时对云原生内容做探索，从k8s到serverless ，然后发现腾讯云函数。这时候突然就将自动签到脚本和腾讯云函数关联起来了，截止到2023年1月份，已经使用了近5个月时间，一直是免费的~。就在前几天还是免费的... 短短几天，花了我差不多5元余额巨款。下面我把这几天腾讯云函数支出明细贴出来
 
-  ![](../pic/tools/cloud-function.png)
+  ![](https://wudiguang.top/images/hexo/tools/cloud-function.png)
 
   这个支出记录看的我心寒，使用云函数也就几个月了，这段时间分文不取，而从2023年1月初开始，对我疯狂吸血。还好我里面余额并不多~，今天也是腾讯消息提醒我以及欠费了...我真惊了。
   不过，我还是很感激腾讯云函数，让我接触了一下serverles产品
@@ -74,19 +74,19 @@ git clone https://github.com/xuxueli/xxl-job.git
 如果看到下面页面，则表示xxl-job部署成功
 
 
-![](../pic/tools/xxl-job01.png)
+![](https://wudiguang.top/images/hexo/tools/xxl-job01.png)
 
 ## 创建自动签到脚本任务
 
-![](../pic/tools/xxl-job02.png)
-![](../pic/tools/xxl-job03.png)
+![](https://wudiguang.top/images/hexo/tools/xxl-job02.png)
+![](https://wudiguang.top/images/hexo/tools/xxl-job03.png)
 
 这里的运行模式我选择是的Python脚本方式，弃用了原来的nodejs，创建好任务后，我们使用GLUE IDEA打开脚本编辑器，这里就可以放入我们的签到脚本啦~
 上面任务配置中我设置的是每天早上6点触发。
 
 另外，我引入了pushplus，每次签到成功后，我的微信会受到一条消息推送，如下图
 
-![](../pic/tools/pushplus1.jpg)
+![](https://wudiguang.top/images/hexo/tools/pushplus1.jpg)
 
 ### 脚本编写
 
