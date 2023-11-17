@@ -31,6 +31,12 @@ stable-diffusion-webui版本：1.6.0
 5. control_v11p_sd15_canny.pth
 6. control_v11p_sd15_openpose.pth
 
+请将`Chilloutmix-Ni-pruned-fp16-fix.safetensors`文件放到`models\Stable-diffusion`目录下
+
+将`sd-webui-EasyPhoto`文件夹放到`extensions`目录下
+
+将`control_sd15_random_color.pth`,`control_v11f1e_sd15_tile.pth`,`control_v11p_sd15_canny.pth`,`control_v11p_sd15_openpose.pth`放到`models\ControlNet`目录下
+
 ## 使用
 
 ### 训练模型
