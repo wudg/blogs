@@ -6,8 +6,8 @@ categories:
   - 后端
 keyword: Zookeeper教程
 description: Zookeeper教程
-cover: /pic/post/cover-zookeeper.jpg
-top_img: /pic/post/cover-zookeeper.jpg
+cover: https://wudiguang.top/images/hexo/post/cover-zookeeper.jpg
+top_img: https://wudiguang.top/images/hexo/post/cover-zookeeper.jpg
 abbrlink: 38f76b8a
 date: 2023-11-09 10:33:00
 ---

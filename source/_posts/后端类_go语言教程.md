@@ -6,8 +6,8 @@ categories:
   - 后端
 keyword: Go语言教程
 description: Go语言教程
-cover: /pic/post/cover-golang.png
-top_img: /pic/post/cover-golang.png
+cover: https://wudiguang.top/images/hexo/post/cover-golang.png
+top_img: https://wudiguang.top/images/hexo/post/cover-golang.png
 abbrlink: 750cf0e1
 date: 2023-11-09 09:33:00
 ---

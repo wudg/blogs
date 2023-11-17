@@ -7,8 +7,8 @@ categories:
   - 后端
 keyword: 【后端】一小时入门flask框架
 description: 【后端】一小时入门flask框架
-cover: '/pic/post/flask-cover.png'
-top_img: '/pic/post/flask-cover.png'
+cover: 'https://wudiguang.top/images/hexo/post/flask-cover.png'
+top_img: 'https://wudiguang.top/images/hexo/post/flask-cover.png'
 abbrlink: 2fc4698
 date: 2023-10-29 09:53:00
 ---
@@ -17,7 +17,7 @@ date: 2023-10-29 09:53:00
 
 [封面图]
 
-![封面图](/pic/post/flask-cover.png)
+![封面图](https://wudiguang.top/images/hexo/post/flask-cover.png)
 
 ## 概述
 
