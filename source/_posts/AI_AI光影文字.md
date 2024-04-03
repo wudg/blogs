@@ -6,21 +6,21 @@ categories:
   - AI
 keyword: AI
 description: 【工具类】AI光影文字
-cover: /pic/ai/ai-shallow-02.png
-top_img: /pic/ai/ai-shallow-02.png
+cover: https://wudiguang.top/images/hexo/ai/ai-shallow-02.png
+top_img: https://wudiguang.top/images/hexo/ai/ai-shallow-02.png
 abbrlink: c48a9624
 date: 2024-03-06 00:45:00
 ---
 
 [封面图]
 
-![封面图](../pic/ai/ai-shallow-02.png)
+![封面图](https://wudiguang.top/images/hexo/ai/ai-shallow-02.png)
 
 ## 制作黑底白字的图
 
 图片尺寸（像素）：768x512
 
-![如图](../pic/ai/ai-shallow-01.png)
+![如图](https://wudiguang.top/images/hexo/ai/ai-shallow-01.png)
 
 
 ## 模型&Prompt&参数
@@ -39,4 +39,4 @@ Steps: 20, Size: 768x512, Seed: 1883261138, Model: CetusMix_WhaleFall2, Version:
 * 引导介入时机：0.2
 * 引导终止时机：0.4~0.7
 
-![如图](../pic/ai/ai-shallow-03.png)
+![如图](https://wudiguang.top/images/hexo/ai/ai-shallow-03.png)

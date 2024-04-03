@@ -7,15 +7,15 @@ categories:
   - AI
 keyword: 【AI】ComfyUI入门篇
 description: 【AI】ComfyUI入门篇
-cover: '../pic/ai/comfy01.png'
-top_img: '../pic/ai/comfy01.png'
+cover: 'https://wudiguang.top/images/hexo/ai/comfy01.png'
+top_img: 'https://wudiguang.top/images/hexo/ai/comfy01.png'
 abbrlink: 9daf51d0
 date: 2024-01-28 19:12:00
 ---
 
 [封面图]
 
-![封面图](../pic/ai/comfy01.png)
+![封面图](https://wudiguang.top/images/hexo/ai/comfy01.png)
 
 节点化
 
